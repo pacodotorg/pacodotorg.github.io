@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fleetwood Mac: Rhiannon"
-category: Listen to this
+category: music
 author: pacodotorg
 published: yes
 ---
