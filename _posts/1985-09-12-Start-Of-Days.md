@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Start of Days
-category: "The Loudmouth"
+category: loudmouth
 published: true
 ---
 

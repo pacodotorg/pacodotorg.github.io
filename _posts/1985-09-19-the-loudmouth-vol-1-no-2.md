@@ -3,7 +3,7 @@ title: The Loudmouth — Vol. 1, No. 2
 date: 1985-09-19
 author: pacodotorg
 layout: post
-category: "The Loudmouth"
+category: loudmouth
 ---
 <div id='gallery-16' class='gallery galleryid-1047 gallery-columns-4 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
