@@ -20,8 +20,7 @@ title: Home
           {{ post.description}}
           {% else %}
           {{ post.excerpt }}
-          {% endif %}
-          <time class="post_date">{{ category | first }}</time>
+          {% endif %} 
           <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
         </p> 
       </div>
@@ -41,15 +40,13 @@ title: Home
           {{category}}</a>
         {% endfor %}
         -->
-
-        <!--
         {% if post.author %}
         <span class="author_meta">
           <img src="{{site.baseurl}}/assets/img/{{post.author}}.jpg"></img>
           <span>David Lin</span>
         </span>
         {% endif %}
-        -->
+
 
         <!--p class="readmore">
           <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
