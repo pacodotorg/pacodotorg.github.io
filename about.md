@@ -6,7 +6,7 @@ published: true
 ---
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 published: true
 ---
