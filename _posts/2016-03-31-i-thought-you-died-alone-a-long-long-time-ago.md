@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Start of Days
+title: I thought you died alone, a long, long time ago
 category: loudmouth
 published: true
+category: music
 ---
 I’m a big David Bowie fan, but not because I got into David Bowie. The first song of his that I liked was the collaboration with Queen “Under Pressure,” and even then (early to mid-80s) I associated that song more with the supergroup than I did with just Bowie. Radio hits of the 80s that followed (“Let’s Dance,” “Blue Jean”) were a welcome splash to the otherwise repetitive string of pop put out at the time.
 
