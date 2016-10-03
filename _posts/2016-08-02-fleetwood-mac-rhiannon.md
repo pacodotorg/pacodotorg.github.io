@@ -3,6 +3,7 @@ layout: post
 title: Fleetwood Mac: Rhiannon
 categories: "Listen to this",music
 published: yes
+author: pacodotorg
 ---
 
 Somewhere along the way, a friend of mine posted this video on Facebook, and I stopped disliking the song Rhiannon, that for whatever long-forgotten reason I disliked.
