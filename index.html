@@ -12,6 +12,7 @@ title: Home
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
         <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+
       </header>
       <div class="post_excerpt">
         <p>
@@ -19,7 +20,8 @@ title: Home
           {{ post.description}}
           {% else %}
           {{ post.excerpt }}
-          {% endif %} 
+          {% endif %}
+          <time class="post_date">{{ category | first }}</time>
           <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
         </p> 
       </div>
