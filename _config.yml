@@ -8,14 +8,11 @@
 # Site settings
 title: paco[dot]org
 email: contact [at] paco.org
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: I’m a member of the IT Faculty at El Centro College in the Dallas County Community College District for the Internet Development Technologies program. I currently teach Digital Imaging and Web Design classes using Adobe Photoshop and Adobe Dreamweaver, plus HTML5 and CSS3 coding. I also teach Web Project Management, Portfolio Development and WordPress courses.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://paco.org" # the base hostname & protocol for your site
 twitter_username: pacodotorg 
-github_username:  pacodotorg 
+github_username:  pacodotorg
 
 # Build settings
 markdown: kramdown
