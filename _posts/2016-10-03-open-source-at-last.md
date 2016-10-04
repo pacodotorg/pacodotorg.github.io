@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'Open-soured, at last'
+title: 'Open-sourced, at last'
 category: meta
 author: pacodotorg
 ---
