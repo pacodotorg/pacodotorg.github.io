@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: paco[dot]org
 email: contact [at] paco.org
@@ -13,6 +6,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://paco.org" # the base hostname & protocol for your site
 twitter_username: pacodotorg 
 github_username:  pacodotorg
+
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+paginate:            5
+
 
 # Build settings
 markdown: kramdown
@@ -25,6 +28,4 @@ kramdown:
 disqus_shortname:
 
 # used this for post_excerpt at index_page
-excerpt_separator: <!--description-->
-
-paginate_path: "/blog/page:num/"
+excerpt_separator:
