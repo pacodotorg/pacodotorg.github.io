@@ -10,7 +10,7 @@ I remember reading this in the paper all that time ago, and thinking &#8220;Yeah
 
 ![Eat less and exercise]({{site.baseurl}}/images/eat_less_exercise.jpg)
 
-**EDIT:** _However, I wonder if my memory is messing with me, and I'm actually thinking of this particular cartoon:_
+> **EDIT:** _However, I wonder if my memory is messing with me, and I'm actually thinking of this particular cartoon:_
 
 ____![Eat less and exercise]({{site.baseurl}}/images/blm140822.gif)
 
