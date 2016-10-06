@@ -12,6 +12,11 @@ I remember reading this in the paper all that time ago, and thinking &#8220;Yeah
 
 > **EDIT:** _However, I wonder if my memory is messing with me, and I'm actually thinking of this particular strip:_
 
+
+<picture>
+    <source srcset="/images/blm140822.gif" media="(max-width: 100%)">
+</picture>
+
 <img src = "/images/blm140822.gif">
 
 <br />[@pacodotorg](https://twitter.com/pacodotorg)
