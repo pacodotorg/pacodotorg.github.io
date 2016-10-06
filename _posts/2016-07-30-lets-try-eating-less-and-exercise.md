@@ -18,6 +18,4 @@ I remember reading this in the paper all that time ago, and thinking &#8220;Yeah
     <source srcset="/images/blm140822.gif" media="(width: 100%)">
 </picture>
 
-<img src = "/images/blm140822.gif">
-
 <br />[@pacodotorg](https://twitter.com/pacodotorg)
