@@ -1,13 +1,9 @@
 ---
-id: 1047
 title: The Loudmouth — Vol. 1, No. 2
-date: 1985-09-19T23:55:36+00:00
+date: 1985-09-19
 author: pacodotorg
 layout: post
-guid: http://paco.org/?p=1047
-permalink: /the-loudmouth-vol-1-no-2/
-categories:
-  - The Loudmouth
+category: loudmouth
 ---
 <div id='gallery-16' class='gallery galleryid-1047 gallery-columns-4 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
