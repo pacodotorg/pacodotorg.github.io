@@ -9,7 +9,7 @@ published: true
 I remember reading this in the paper all that time ago, and thinking &#8220;Yeah, right.&#8221;
 
 <picture>
-    <source srcset="http://www.paco.org/images/eat_less_exercise.jpg" media="(max-width: 100%)">
+    <source srcset="/images/eat_less_exercise.jpg" media="(max-width: 100%)">
 </picture>
 
 **EDIT:** _However, I wonder if my memory is messing with me, and I'm actually thinking of this particular strip:_
