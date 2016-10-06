@@ -8,9 +8,11 @@ published: true
 
 I remember reading this in the paper all that time ago, and thinking &#8220;Yeah, right.&#8221;
 
-![Eat less and exercise]({{site.baseurl}}/images/eat_less_exercise.jpg)
+<picture>
+    <source srcset="/images/eat_less_exercise.jpg" media="(max-width: 100%)">
+</picture>
 
-> **EDIT:** _However, I wonder if my memory is messing with me, and I'm actually thinking of this particular strip:_
+**EDIT:** _However, I wonder if my memory is messing with me, and I'm actually thinking of this particular strip:_
 
 
 <picture>
