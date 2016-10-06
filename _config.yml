@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: paco[dot]org
+description: what's old again is new
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://paco.org
@@ -30,7 +30,7 @@ isso: ''
 disqus: ''
 
 permalink: /:year/:month/:title
-paginate: 3
+paginate: 5
 
 highlighter: rouge
 markdown: kramdown
