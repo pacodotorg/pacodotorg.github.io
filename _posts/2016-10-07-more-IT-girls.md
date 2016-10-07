@@ -1,7 +1,9 @@
 ---
-published: false
+layout: post
+published: true
+title: More IT Girls!
 ---
-## The more you know
+## The more you know: More IT Girls
 
 Why encourage girls to go into a science, tech, engineering or math career? The U.S. will need more than 1.5 million engineers and computer professionals in the next 10 years. Enough "it girls." More IT Girls!
 
