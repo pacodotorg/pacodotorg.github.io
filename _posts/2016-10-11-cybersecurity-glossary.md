@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Common Cybersecurity Terms"
+title: Common Cybersecurity Terms
 category: cyber
 author: idtprof
 published: true
 ---
 
-## Common cybersecurity terms
+## A cybersecurity glossary
 
 **Antivirus software**
 Computer programs that can block, detect, and remove viruses and other malware.
