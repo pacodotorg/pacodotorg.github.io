@@ -4,6 +4,10 @@ body {
     font-size: 2em;
 }
 
+h1 {
+    font-weight: bold;
+}
+
 .copyright {
     color: #ffffff;
 }
