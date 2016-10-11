@@ -1,6 +1,11 @@
 ---
-published: false
+layout: post
+title: "Common Cybersecurity Terms"
+category: cyber
+author: idtprof
+published: true
 ---
+
 ## Common cybersecurity terms
 
 **Antivirus software**
