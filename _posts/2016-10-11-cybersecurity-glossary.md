@@ -8,7 +8,7 @@ published: true
 
 ## A cybersecurity glossary
 
-**Antivirus software**
+> **Antivirus software**
 Computer programs that can block, detect, and remove viruses and other malware.
 
 **Backups/backing up files**
@@ -75,7 +75,7 @@ Unsolicited emails sent to many addresses. The purpose of most spam is to make m
 A data storage device that is used to store, back up, and transfer computer files. 
 
 **USB port**
-A type of connection between devices that can exchange information and power supply. 
+A type of connection between devices that can exchange information and power supply.
 
 [Taken from the Khan Academy's brief cybersecurity presentation.](https://www.khanacademy.org/partner-content/nova/cybersecurity)
 
