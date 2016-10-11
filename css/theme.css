@@ -47,6 +47,10 @@ h2 {
     font-size: 1.3em;
 }
 
+.well li {
+    font-size: 1m;
+}
+
 .author {
     color: #ee4444;
 }
