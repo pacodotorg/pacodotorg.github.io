@@ -78,3 +78,5 @@ A data storage device that is used to store, back up, and transfer computer file
 A type of connection between devices that can exchange information and power supply. 
 
 [Taken from the Khan Academy's brief cybersecurity presentation.](https://www.khanacademy.org/partner-content/nova/cybersecurity)
+
+<br />[@idtprof](https://twitter.com/idtprof)
