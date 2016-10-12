@@ -8,7 +8,7 @@ published: true
 
 ## A cybersecurity glossary
 
-    *Antivirus software* Computer programs that can block, detect, and remove viruses and other malware.
+    **Antivirus software** Computer programs that can block, detect, and remove viruses and other malware.
 
 > **Backups/backing up files**
 Extra copies of computer files that can be used to restore files that are lost or damaged.
