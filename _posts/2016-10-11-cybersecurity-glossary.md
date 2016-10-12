@@ -8,6 +8,8 @@ published: true
 
 ## A cybersecurity glossary
 
+   Sure, plenty of computer users have certainly heard these terms, and many have had a bad experience with one or more of the thins explained here. Seems to me, however, that folks fall into a false sense of security more and more each day — so it doesn't hurt to review:
+
 > **Antivirus software** Computer programs that can block, detect, and remove viruses and other malware.
 
 > **Backups/backing up files**
