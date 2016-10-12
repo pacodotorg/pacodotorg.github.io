@@ -40,7 +40,8 @@ h2 {
 }
 
 .container-left {
-    margin: 0;
+    width: 90%
+    margin: auto;
 }
 
 .well h1 {
