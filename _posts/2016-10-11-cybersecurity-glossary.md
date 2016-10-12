@@ -8,7 +8,7 @@ published: true
 
 ## A cybersecurity glossary
 
-<pre>
+```
 
 <code>Antivirus software</code> Computer programs that can block, detect, and remove viruses and other malware.
 
@@ -80,6 +80,6 @@ A type of connection between devices that can exchange information and power sup
 
 [Taken from the Khan Academy's brief cybersecurity presentation.](https://www.khanacademy.org/partner-content/nova/cybersecurity)
 
-</pre>
+```
 
 <br />[@idtprof](https://twitter.com/idtprof)
