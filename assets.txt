@@ -1,0 +1,20 @@
+github assets
+
+http://embedresponsively.com/
+
+
+<div align = "center">
+  <img src = "http://www.paco.org/images/home_sweet_home.jpg" alt = "Home Sweet Home" max-width="100%" height = "auto">
+</div>
+
+<br />[@pacodotorg](https://twitter.com/pacodotorg)
+
+<br />[@idtprof](https://twitter.com/idtprof)
+
+---
+layout: post
+title: "Web Design Resources"
+category: html
+author: idtprof
+published: true
+---
