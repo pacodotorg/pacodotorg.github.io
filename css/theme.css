@@ -41,8 +41,8 @@ h2 {
 }
 
 .container-left {
-    width: 85%
-    margin-right: 10px;
+    width: 90%
+    margin: auto auto auto 10px;
 }
 
 .well h1 {
