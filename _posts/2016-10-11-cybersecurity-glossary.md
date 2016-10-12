@@ -9,8 +9,8 @@ published: true
 ## A cybersecurity glossary
 
 ```
-
-<code>Antivirus software</code> Computer programs that can block, detect, and remove viruses and other malware.
+Antivirus software Computer programs that can block, detect, and remove viruses and other malware.
+```
 
 > **Backups/backing up files**
 Extra copies of computer files that can be used to restore files that are lost or damaged.
@@ -79,7 +79,5 @@ A data storage device that is used to store, back up, and transfer computer file
 A type of connection between devices that can exchange information and power supply.
 
 [Taken from the Khan Academy's brief cybersecurity presentation.](https://www.khanacademy.org/partner-content/nova/cybersecurity)
-
-```
 
 <br />[@idtprof](https://twitter.com/idtprof)
