@@ -8,7 +8,8 @@ published: true
 
 ## A cybersecurity glossary
 
-   Sure, plenty of computer users have certainly heard these terms, and many have had a bad experience with one or more of the thins explained here. Seems to me, however, that folks fall into a false sense of security more and more each day — so it doesn't hurt to review:
+Sure, plenty of computer users have certainly heard these terms, and many have had a bad experience with one or more of the thins explained here. Seems to me, however, that folks fall into a false sense of security more and more each day — so it doesn't hurt to review 
+[taken from the Khan Academy's brief cybersecurity presentation.](https://www.khanacademy.org/partner-content/nova/cybersecurity):
 
 > **Antivirus software** Computer programs that can block, detect, and remove viruses and other malware.
 
@@ -77,7 +78,5 @@ A data storage device that is used to store, back up, and transfer computer file
 
 > **USB port**
 A type of connection between devices that can exchange information and power supply.
-
-[Taken from the Khan Academy's brief cybersecurity presentation.](https://www.khanacademy.org/partner-content/nova/cybersecurity)
 
 <br />[@idtprof](https://twitter.com/idtprof)
