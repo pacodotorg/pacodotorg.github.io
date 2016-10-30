@@ -4,6 +4,10 @@ body {
     font-size: 2em;
 }
 
+ul li {
+	font-size: 2em;
+}
+
 h2 {
     font-weight: bold;
 }
