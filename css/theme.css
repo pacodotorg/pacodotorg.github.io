@@ -4,18 +4,6 @@ body {
     font-size: 2em;
 }
 
-ul li {
-	font-size: 2em;
-}
-
-li {
-	font-size: 2em;
-}
-
-ul {
-	font-size: 2em;
-}
-
 h2 {
     font-weight: bold;
 }
@@ -61,7 +49,7 @@ h2 {
 }
 
 .well ul {
-    font-size: 2m;
+    font-size: 1m;
 }
 
 .author {
