@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Most Important Song in my Life'
+title: 'An Important Song in My Life'
 category: music
 author: pacodotorg
 published: true
