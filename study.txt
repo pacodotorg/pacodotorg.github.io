@@ -1,0 +1,883 @@
+Competency 1
+
+Information Systems and Business
+
+Information systems aid business in implementing a number of value-added systems.  The adoption of information systems helps organizations maximize the use of human and technological resources.  This is done by reducing or eliminating duplicate tasks, reducing the number of errors or issues by implementing validation, and automating repetitive processes leaving employees to deal with tasks that require higher levels of thinking.
+
+Introduction to Business Information Systems
+
+Information is essential to the success of an organization. Businesses need to convert raw data into meaningful information in order to make smart decisions. Information systems are necessary for the translation of data to information and to successfully manage a business.
+
+Think of raw data (data) as not very descriptive and standing alone.
+
+Information is data that a business information system has transformed into meaningful information.
+
+Good information has the following characteristics:
+•	Accurate: – free from errors, and based on correct data.
+•	Timely:– information is available when a decision needs to be made.
+•	Relevant: – appropriate for the type of decision being made.
+•	Sufficient: – enough information for its intended use.
+•	Reliable:– information from trusted sources / systems / people
+•	Cost-Effective: – the information provides a benefit associated with a certain rate of return
+
+Define information systems
+
+A business information system is a group of interrelated components that interact to manipulate and process data into meaningful information.
+
+Explain the importance of information at various levels of an organization
+
+Employees at various levels of an organization collect various pieces of valuable, ‘good’ information, and create knowledge, enabling them to make solid business decisions.
+
+Information Granularity- degree of detail needed for managers to make decisions.
+Course granularity refers to information that is highly summarized, usually in the form of a report. This type of information is useful to upper management. It is information that is already summarized from finely granular information.
+Fine granularity refers to information that is highly detailed. This type of information is useful for lower – level managers; for example, those who oversee a floor-level department. A manager can always summarize the detailed information from something that is finely granular.
+
+	Information System decisions can be structured or unstructured. 
+•	Structured – follow a formula or set of steps to arrive at a consistent answer.
+•	Unstructured – possibly several answer options would work, but they cannot be determined by a set of rules or formulas.
+
+Managerial Information Systems
+•	Executive – helpful for making strategic decisions that are unstructured, using highly summarized information.
+•	Managerial – helpful for making tactical decisions based on the strategic initiatives handed down from the executive level. 
+•	Operational – highly structured and capture daily organizational transactions.
+
+Identify the component parts of an information system
+Every information system has five basic components that are integral to its success. These components are hardware, software, data, procedures, and people.
+
+IS Five-Component Model
+Hardware
+Software
+Data
+Procedure
+People
+
+
+   	
+•	Hardware - the physical equipment used by an information system (CPU, monitor, mouse, etc.).  These devices are controlled by the computer programs (software).
+•	Software - the programs used to instruct the Hardware.  There are 2 types of software:
+o	Systems software – controls system resources, such as operating systems
+o	Applications software – used to help people do their job.  Example application software includes QuickBooks, MS Office, Adobe Reader.
+•	Data - the characters (alpha, numeric, symbolic) fed into the computer system.  Data is stored in tables, and can be manipulated through software instructions to convert into meaningful information.
+o	Data is the bridge between the computer side on the left and the human/people side on the right.
+•	Procedures - the instructions for the people / users of the information systems.  Some examples are how to back up the data, how to log on and off of the systems, etc.
+o	Procedures are to people, as software is to hardware.
+•	People – the users and administrators of the systems.
+o	People are considered the most important component of a business information system.
+
+
+Describe roles in organizational information systems
+There are 3 main roles that you could fulfill in the workplace regarding Information Systems:
+•	Computer User- Knows proper procedure for operating a computer and general navigation. 
+•	Super User- User understands the information system and how it works. This user could participate in defining requirements for a new or improved system and can identify the needs of the users. Super users help identify system inputs and outputs, such as data and reports. 
+•	Expert User- High level of knowledge of how the IS system works and can train others on how to use the system. Expert users can help convert from an old system to a new one, and conduct peer training.
+
+The Business Process
+
+Every business activity is part of a process: operation, management, and support.  In order to see the big picture, one needs to understand not only how each process works but how they relate to one another as part of the business process.
+
+A business process is a network of activities, repositories, roles, resources, and flows that interact to accomplish a business function. (MIS etext, page 364)
+
+As defined by the CourseConnect resource, a business process is a series of steps that defines how something is done. It is also a series of steps which transforms inputs to outputs. 
+
+Explain the relationship between business processes and information systems
+
+View a short video: What is a business process?
+
+Business processes are part of every business.  If they are fully manual processes, a process model can be created to see relationships among activities.  This model can then be used as a blueprint to create an information system.  
+
+The relationship between business processes and information systems depends on how extensive the processes are. If the processes are extensive, there might be several systems that support one process.
+
+Every IS has at least one application because every IS has a software component.
+If a process is simple, it might share an information system with other processes.
+An information system can be defined as a group of components that interact to produce information.
+
+Automating Business Processes
+
+Business processes can be automated at different levels.  The different levels of automation depend on how much of the previously manually intensive efforts are replaced by automation.
+
+The following examples relates to the business process of doing an inventory:
+
+Fully automated inventory process:
+Walmart’s process is fully automated – after scanning an item at checkout, a network of information systems takes that information and reduces inventory of that item, reflecting time to reorder, offering buying trends, and other information that is key to many functional areas (marketing, purchasing, etc.).
+
+Partially automated inventory process:
+Smaller scale grocery stores (not at the Walmart level) – staff manually counts items on shelves, then from spreadsheets or other data collection tools, they enter the quantities into an inventory control information system, and that generates the information needed for restocking, trends, etc.  The sales aspect in this scenario would likely be via manually keying the price to get the customer’s total, rather than scanning a bar code which would identify many more pieces of information.
+
+Totally manual inventory process:
+An example of totally manual would be a very small scale operation, such as a farmer’s market.  The items to sell are manually weighed or sold by quantity via verbally providing the total price to the customer.  Once the items are gone, that’s the indicator to restock, which is also manual!
+
+Business Process Engineering – the systematic process of creating, assessing, and altering business processes to incorporate new information systems. This is done using a four phase model:
+•	Phase 1 – Create an ‘as-is’ model.  This ensures an understanding of the current process.
+•	Phase 2 – Create the components (hardware, software, data, procedures, and people).
+•	Phase 3 – Implement the processes, which should be more efficient, streamlines, and easier than the old process.
+•	Phase 4 – Assess the results, to monitor the effectiveness of the new processes.
+
+Define Process Model
+
+View a short video: Business Process Modeling Notation
+Process modeling is a graphic representation, using process modeling notation, of how data flow and how activities are related in an organization.
+
+Process modeling symbols:
+•	Circle, thin outline – represents the start of an activity, process, etc.
+•	Circle, thick outline – represents the end of an activity, process, etc.
+•	Rectangle (horizontal, with rounded corners) – represents an activity
+•	Diamond shape – represents a decision point, from which 2 distinct paths may follow – a ‘Yes’ condition, and the other representing a ‘No’ condition
+•	Vertical rectangle (similar to a ‘page’) – represents data
+•	Solid Lines with arrows – represent control flow
+•	Dashed Lines with arrows – represent data flows
+
+
+
+Describe the components of a business process
+
+Activities change inputs into outputs and represent the action items in a process model.
+Resources are items of value, such as suppliers, customers, or auto parts.
+Facilities are storage areas, such as a warehouse that stores spare parts, tires, and other auto products. A database of stored data is also considered a facility.
+Data flows represent the data that move between activities in a process.
+
+Organizational Strategy and Information Systems
+
+Organizations use structure and hierarchies to operate efficiently.  These structures play a key role in the development of Information Systems.  Information Systems can also provide a competitive advantage in the marketplace by helping to analyze the costs and benefits of different business strategies.
+
+Explain the role of organizational strategy in creating information systems
+
+View a short video: Walmart using their IS to determine who gets Pop Tarts during a hurricane 
+
+Organizational strategy is the alignment of a company’s planning, decisions, and actions to enable it to reach its goals, mission, and objectives.  Organizations create information systems for one of 2 purposes:
+•	To obtain its goals, objectives, or mission
+•	To solve a major problem or meet a challenge
+ 
+Explain Porter’s Five Forces industry analysis model
+
+Michael Porter’s Five Forces Industry Analysis model seeks to analyze the forces that exist in the industry of which a business is a part.  The main reasons to use this model are:
+1)	To better understand the industry in which it competes
+2)	To determine how attractive it is to start a business in a given industry
+3)	To determine how to conduct a successful business in a given industry
+
+The Five Forces are:
+•	Rivalry – competition in an industry.
+•	Threat of substitutes – products in another industry that could be substituted for the products in the industry being studied.  This force is intense when close substitutes can constrain the ability to raise prices, or when the demand for a product can be affected by a change in the price of a substitute.
+•	Customer bargaining power – the influence that customers can exert on an industry. If this force is strong, it restricts the ability of organizations operating in that industry to raise prices without losing customers.
+•	Supplier power – the influence an industry’s suppliers can exert on the industry.  This influence is high when a supplier can lower the quality of its products, reduce services, or raise prices without losing customers.
+•	Threat of new entrants – refers to how difficult it is to enter an industry. This force is intense if it is easy to enter an industry because this increases competition and makes it more difficult to retain market shares.  
+
+Explain Porter’s Generic Strategies model
+
+In this model, generic means that these strategies are not industry-specific. Porter’s Generic Strategies are applied at the business-unit level.
+
+These generic strategies are used for 2 reasons:
+1)	Existing firms use them to leverage their strengths to select the strategy that results in the most profit
+2)	New businesses use them to determine the best way to operate.
+
+Porter’s Generic Strategies model applies these 4 strategies:
+•	Broad cost leadership
+•	Broad differentiation
+•	Narrow cost leadership
+•	Narrow differentiation
+
+View a short video: Porter's Generic Strategies
+
+BROAD MARKET SCOPE
+Cost Leadership – organizations strategize to reduce their overall production and distribution costs, and appeal to cost-conscious customers.  They set their prices at the lowest point to maintain a value ratio of cost and quality.  They can achieve this by maintaining low operating costs through process efficiencies and gaining control over the supply chain.
+Cost leadership examples:
+•	Wal-Mart – develops close relationships with suppliers and vendors to save costs through large volume purchases, and passes those savings on to the customers.
+•	Dell Computers – maintains a market share by maintaining low inventories – builds computers as ordered.
+Some disadvantages to a low-cost strategy are:
+•	losing the strategic advantage if other organizations lower their prices to match yours
+•	advances in technology passing over your technology because you are conserving costs
+Differentiation strategy – a business implements differentiation when it makes its product or service stand out from that of its competitors. This is appropriate where the target customer segment is willing to pay a premium price, there is a competitive market, and customers have specific under-served needs.  The organization focuses on satisfying these under-served needs in ways that are difficult to copy.  Because the product or service is unique, increases in suppliers’ costs may be able to be passed along to the customers, if they can’t find a substitute product or service.
+Product Differentiation examples:
+•	Differentiation through additional features:
+o	Suitcases on wheels – unique convenience to users 
+o	Suitcases with 360 wheels
+•	Differentiation through the power of the ‘brand’:
+o	Coke vs Pepsi
+o	Sprite vs 7Up
+•	Differentiation through design:
+o	Manual gear shifting in cars vs automatic
+     Potential risks of a differentiation strategy include:
+•	Imitation by competitors
+•	Changes in consumer tastes and shopping habits
+NARROW MARKET SCOPE
+Market Segmentation / Focus – organization focuses on serving a defined, focused market segment with a narrow scope.  The competitive advantage usually occurs through product innovation and/or brand marketing, rather than efficiency.  It should target market segments that are less vulnerable to substitutes, or where competition is weakest.
+Some characteristics of a focus strategy are:
+•	High customer loyalty
+•	Lower sales volumes but higher profits
+•	Passing higher costs to customers
+Some risks of a focus strategy are:
+•	Limitations and changes in target segments
+•	Broad markets possibly adapting to compete
+Cost focus market segmentation – capitalizes on cost behaviors in some segments.  
+Ex:  Southwest Airlines has a low cost focus, only flying one type of airplane and stays in high-density markets.
+Differentiation focus market segmentation – organizations focus on differentiation in a target segment.  Ex:  Ferrari targets high performance sports car segment – offers differentiation through design and high performance, allowing them to charge premium prices.
+
+Explain Porter’s Value Chain model
+
+Value chain is a network of value-creating activities with primary activities that create value and secondary activities, which indirectly contribute to value creation.
+
+Porter has generically labeled the primary activities in the value chain as follows:
+•	Inbound Logistics: Involves relationships with suppliers, including any activity related to receiving, storing, and disseminating inputs.
+•	Operations: Involves activities used to transform inputs into outputs for products or services.
+•	Outbound Logistics: Includes all activities needed to collect, store, and distribute the output created.
+•	Marketing and Sales: Includes all activities used to market and sell the products or services.
+•	Service: Includes all activities for servicing the customer after the sale.
+
+Support Activities in Porter’s Value Chain model: 
+•	Procurement – the activities related to acquiring inputs for the organization
+•	Human Resource Management – the activities related to acquiring employees (hiring, training, and development)
+•	Technological Development – the activities related to the equipment an organization uses, such as hardware, software, and procedures
+•	Infrastructure – the activities related to the functional areas of an organization, such as accounting, finance, and government relations
+
+Value Chain Analysis Advantages:
+•	Identifying Inefficiencies: When the activities of an organization are broken down by a value chain analysis, the results enable an organization to identify inefficiencies.
+•	Enhancing Activities: Each activity can be identified and enhanced to create cost savings, thus allowing a larger profit margin.
+•	Modifying Activities: There might be opportunities to modify the value chain activities to achieve lower costs.
+•	Identifying Weak Information Systems: Value chain analysis can also be used to identify areas that need improvement, especially those related to information systems (IS).
+
+Explain how a competitive advantage can be accomplished through the use of information systems
+One of the first steps an organization takes toward using information systems (IS) for a competitive advantage is analyzing the business by using the Porter models. This analysis is a three-step process:
+1.	Porter’s Five Forces Industry Analysis enables the organization to study the industry of which it is a part. This gives the organization a better understanding of the forces the industry faces, and provides the basis for the company to determine how it wants to compete.
+2.	Porter’s Generic Strategies model helps an organization determine the best way to compete in its industry and maximize profits.
+3.	Porter’s Value Chain model enables an organization to break down its processes (activities) to look for opportunities for cost savings and identify potential uses of IS.
+
+Maximizing personnel is one of the most important tasks for any organization. When an organization identifies manual components in its business processes that could be automated, it can reduce costs, while also enabling employees to expand their areas of responsibility, no longer having to manually perform the now automated activities. 
+
+The more automated an organization becomes, the easier it is to compete in the marketplace.
+
+Maximizing Information Systems:
+•	Defining IS: Information systems are much more than hardware and software; they are tools that organizations use to gain strategic knowledge and a competitive advantage. 
+•	Using IS: the organization must understand different ways IS can be used to provide a marketplace advantage. IS provides the capability to conduct low-cost transactions while decreasing processing time.
+•	Integrating IS: Integrating IS into a web storefront can expand the scope of an organization from local to international. The organization can then compete with much larger organizations and offer differences that make it attractive.
+
+
+Competency 2
+The graduate defines the different methods of system development, and selects the appropriate method for a project.
+
+Systems Development
+
+There are various methods of system development.  Desired outcomes and the project timeline play a key role in deciding which strategies and techniques to employ when developing Information Systems. 
+
+Note: when studying the SDLC you will notice that some sources refer to each step by a standard name while others use a descriptive approach.  This reflects a reality in the system development field.  By gaining familiarity with both the concept and purpose of each step, you should be able to identify them regardless of the nomenclature.
+
+Information Systems Development
+
+Before you begin the development process, you must first outline the goals and requirements for a project.  There are several different approaches to the development process, and the goals of the project will help determine which one will be the best fit.  Sometimes the goals or deliverables of a project can change, so an understanding of these different approaches allows for a more dynamic development process.
+
+Outline factors to consider in systems development
+
+Determining Requirements:
+Any new system is dependent on the end user’s ability to identify every requirement. When developing an information system, each of these requirements must be clearly defined. Keep these tasks in mind when determining the requirements:
+•	Cooperate: The information technology (IT) professionals must be willing to work with the users to go through every test scenario to ensure that all requirements are addressed.
+•	Identify Expectations: To do this, the users must first identify everything the system is expected to do. They can then work with the IT staff to explain their expectations.
+•	Examine Previous Work: One way to help identify all requirements is to examine the inputs and outputs used previously, and make sure they have been addressed in the new system.
+•	Ask Questions: When they communicate, both users and IT staff must ask detailed questions and provide detailed answers regarding all possible requirements. When organizations put the required time and effort into determining requirements, they improve their chances for success in systems development.
+
+Changing Requirements:
+After the requirements are determined, the development process begins.  At this point, the requirements can change, or new ones be added. The larger the project and the farther along it is in development, the more difficult it is to add or change functionality.  Some options to consider when requirements change:
+•	Reworking Process: if it is determined that a new requirement is vital, it should likely be added.  However, the development process is slowed while developers assess the new requirement and how to add it.
+•	Continuing Current Process: the 2nd option to consider is to continue the development process, and add requirements as new features in future versions of the system.
+•	Planning Ahead: the best option is to plan appropriately to proactively identify requirements, as adjusting requirements is not a simple task.
+
+Budgeting Factors:
+Organizations commit large resources to systems development, and expect a return on their investment.  Some tools to help determine the system’s cost include the following:
+•	Cost-benefit analysis
+•	Cost projections on systems development
+•	Examining past projects and their costs
+
+Technological changes:
+Organizations must conduct a thorough research on the latest technologies before beginning a large systems development project to avoid having to upgrade to more efficient technology during the development stage.
+
+Personnel Requirements:
+Organizations must consider what types of people, and what skill sets are needed on the systems development team. Business users are typically on a team, with the following responsibilities:
+•	Identifying requirements
+•	Ensuring the system includes the requirements
+•	Testing the system
+•	Assisting in training their peers
+
+Outsourcing vs in-house or consultants:
+To provide the proper level of support for managing the needs of clients and customers, organizations can outsource some of their work to other resources, or us in-house operations or consultants.
+•	Outsourcing is the process of contracting work with another company to provide services that might be beyond the capabilities of internal employees. There is typically a financial advantage, in that the organization doesn’t have to provide benefits to the outsource contract workers. Some examples would be outsourcing a business’ payroll or call center services.
+•	In-House operations – an organization uses its own employees to perform services such as it’s own payroll or call center services.  This allows transactions to remain internal.  Another option that still keeps transactions internal, if an organization doesn’t have enough employees to support these services, is to hire consultants.
+
+Describe various system development approaches
+
+The systems development life cycle (SDLC) is a rigid, phased approach to systems development that, if followed correctly, offers a high chance of success.  Two tools that help manage the SDLC are:
+•	Work Breakdown Structure (WBS) – this is an outline view of the tasks to be completed, organized by phases. This document provides a scope of the major systems development tasks.
+•	Gantt Chart – this chart displays tasks and dependencies, shown in a matrix view. 
+
+Systems Development Life Cycle Strengths and Weaknesses:
+Strengths 
+•	Ability to monitor and maintain control over large projects
+•	Detailed phases that guide systems development in a controlled manner
+•	Good documentation
+•	Great user input into requirements
+•	Easy systems maintenance
+•	Ability to make changes to the information technology staff without affecting the development process
+Weaknesses
+•	Longer development time than other methodologies
+•	Increased development costs
+•	Need for well-defined systems at outset, before development starts
+•	Rigid process
+•	Some difficulty in estimating scheduling and budgeting
+•	Limited user input
+
+
+Describe each phase of the systems development life cycle
+
+•	Phase I: Planning – this phase determines the scope, and identifies the tasks the system must accomplish. Some primary components of this phase are:
+o	Defining the scope of the system
+o	Conducting feasibility studies, to determine the viability of the project. There are 4 feasibility studies that take place (remember the acronym COST):
+♣	Cost – ensuring funding is available for the project
+♣	Organizational – does the project fit within the organization’s culture, customs, and goals?
+♣	Scheduling – a preliminary schedule is drafted, with some float, to determine the project start and completion dates.
+♣	Technical – is the technology to build the system available? Does the organization have the expertise to build it? 
+o	Form a project team – the team is composed of an IT project manager, IT staff, a representative from upper management, and users of the proposed system.
+
+•	Phase II: Analysis – this phase identifies the features and functionality of the system, using the project plan from Phase 1 as input.  Major tasks in this phase include:
+o	Identify system requirements – this requires extensive input from the business users of the system to identify every task the new system needs to support.  Strong interviewing skills are required to gather this detailed information from users.
+o	Identify system object requirements – this entails identifying the types of forms, reports, and queries needed to produce the information required.
+o	Identify system security requirements
+o	Identify personnel procedures – those individuals needed to run the system, and the procedures that must be followed
+o	Create a data model – identifying tables and fields for a new or revised database
+
+•	Phase III: Design – using the output from phase 2, the design phase creates each of the features and functionalities of the system.  This entails the following:
+o	Design hardware – identifying and ordering hardware
+o	Design programs (software)
+o	Design a database – tables and fields that store the data
+o	Create job descriptions, related to the proposed users of the final systems, including the procedures they will follow as system users
+o	Create system procedures – these pertain to security, data backup, and system failure recovery plans
+
+•	Phase IV: Implementation – this phase brings the system to a ‘live’ status.  This includes the following:
+o	Building the system
+o	Testing – this is based on test scripts and plans that have been developed to test the functionality of the system.  There are several levels of testing, which include:
+♣	unit tests – stand-alone tests, using controlled input.  
+♣	Integration tests – this involves input from other programs, and output from the new system feeding into other programs, to ensure that program interfaces are accurate. 
+♣	User tests – these are usually the final tests, with users of the system actually testing it as a full system, to identify any errors before it becomes a ‘live’ system.   User acceptance is required for the system to be approved.
+o	Conversion – if a system is replacing another system or systems, software programs need to be written to convert the data from the old system to the new system.  There are several ways that data can be converted to a new system:
+♣	Parallel – this requires running both the old system and the new system at the same time, insuring the results are the same.  Once the new system is confirmed to be accurate, the old system is shut down.  A primary drawback is the high costs involved in running both systems, although for a relatively short period of time.
+♣	Pilot – a new system can be implemented to a small pilot group / location, while the entire organization runs the old system.  
+♣	Plunge – the entire organization cuts over to the new system, immediately shutting down the old system.  This is the most cost –effective conversion method, but does not allow for a fall back if the new system doesn’t perform with the same results as the old.
+♣	Phased – this allows for the new systems to be installed in phases, as they are developed.  
+o	Training – the users of the new system must be trained.  Often, the users who were a part of the development team train their peers on the new system.
+
+•	Phase V: Maintenance – this phase addresses any problems and makes modification, after it is ‘live’.  Tasks involved in the maintenance phase include:
+o	Resolving requests for revisions
+o	Addressing reported problems, by investigating the cause and resolving
+o	Issuing patches – when modifications are needed, updates are created and implemented
+ 
+Alternative Systems Development Life Cycle
+
+When developing information systems, there are several approaches.  Sometimes the timeline of a project requires a much more rapid approach.  Sometimes a project can change direction so the development cycle must be adapted to accommodate.  Different approaches can direct attention and resources where needed to achieve desired outcomes.
+
+Explain the purpose of prototyping
+
+Prototyping is building a preliminary model of a proposed finished system that enables users to test, refine, and modify it so the end result is a usable and tested system.
+Prototypes are temporary systems, and typically don’t include all the functionality of the final system.  Their purpose is to model the finished system so users can work with it and determine whether changes are needed.  
+
+Prototypes reduce:
+•	the amount of testing time needed because features are pretested
+•	the amount of time needed to install the finished system
+•	the number of system development changes needed late in the system’s life cycle
+
+
+Advantages of Prototyping
+Disadvantages of Prototyping
+Development time and costs are reduced.
+Users use the prototype as though it is the final system, which it is not.
+Systems are likely to fulfill user requirements.
+Documentation is usually incomplete.
+User involvement provides valuable feedback to developers
+User expectations are high and sometimes lead to disappointment with the final system.
+Users adapt easily to the finished system because they are familiar with the functionality of the prototype.
+The prototype cannot accommodate a large number of users.
+
+Prototyping steps include:
+•	Identify – identify the basic user requirements
+•	Develop – develop the initial prototype, including the user interface to the system
+•	Test – users test the prototype and provide input for additional modification
+•	Refine – refine and build the final system based on the results of the testing of the prototype
+
+Prototyping uses an iterative process: you build it, try it, refine it, and then try it again until you have the finished system.  The prototype is a temporary system.
+
+Explain object-oriented systems development
+
+Object-oriented development is an unstructured systems development methodology that, unlike structured methodologies, can model data. An OOD object combines data and the procedures it needs to create a module called an entity.
+
+Polymorphism is the ability to appear in different forms, such as an object appearing as the collection of its sub objects.
+Encapsulation is the act of storing data and procedures together in an object.
+Inheritance allows an object to inherit (gain) properties from objects in different classes or subclasses.
+Classes are collections of similar objects and can contain subclasses that inherit the properties of the class. A class can refer to a variable, value, or function. Similar objects that are grouped together.
+Objects are entities that can interact with one another and are manipulated by one of the OOP (Object-oriented programming) languages.
+
+Advantages of OOD
+Disadvantages of OOD
+Code is modified easily by using other objects.
+Code is difficult to read and understand.
+Objects are reusable in other programs.
+OOD is ineffective at representing non-objects.
+Objects are modular (each object is independent from others in the system).
+It takes longer to execute routines than traditional programming.
+Security is easy to set in program code.
+It has fewer functions than traditional programming.
+
+It is not user-friendly in development because of its complicated use of objects during the programming and development processes.
+
+It requires extensive evaluation and monitoring.
+
+Define rapid application development
+
+View a short video: RAD
+
+Rapid application development (RAD) is a methodology that enables a rapid development process for systems while maintaining an acceptable level of quality. It uses modern application techniques and iterative prototyping to restructure the way information systems are developed, thus reducing the development time frame.
+
+This is accomplished by using small groups (the recommended number of group members is six or less) to identify requirements, conduct prototyping and iterative testing, and reuse proven software components—all with a tight schedule and an informal design review process. Rapid application development uses visual programming to quickly build graphical user interfaces and computer-aided software engineering tools to automatically generate programming code.
+
+RAD uses the 80/20 rule, which states that a usable 80% of the system can be developed in 20% of the time required to develop the complete system, after which additional iterations are made until the application is complete.
+
+RAD develops software by assembling and integrating existing software components into a new system.  This method is called component-based development.
+
+There are 4 steps of the RAD life cycle:
+•	Requirements planning – defines the scope and requirements of the project
+•	User Design – the developers and business user’s development the requirements from the 1st step in more detail, converting the entities into a data model represented by an entity relationship (ER) diagram.  
+•	Construction – iterative cycles of development, testing, refining, and redevelopment are continued until a prototype of the application is complete. 
+•	Implementation – the organization begins using the complete and final application.  
+
+
+Advantages of RAD
+Disadvantages of RAD
+RAD is a good methodology to use when the project scope is limited.
+RAD uses agile development, so is considered less scalable and may not contain all the features desired in a final system.
+RAD is a good methodology to use when the business requirements are not complex.
+More costly than other methodologies.
+By using RAD, organizations can quickly respond to new opportunities by assembling components into a complete set of services.
+Potential quality problems because of development speed.
+Flexibility
+Business needs not adequately met because of lack of controls
+Little manual coding compared with other programming methodologies, because most coding is done automatically.
+Less efficient than other methodologies
+Extensive user participation in the development process
+Prone to more problems because of the rapid development process
+Speed of the development process.
+
+
+
+
+Explain agile methods
+
+View these short videos: Agile Basics
+			Agile Case Study
+
+Agile systems methodology is based on iterative and incremental development, where requirements and solutions evolve through collaboration between self-organizing, cross-functional teams.
+
+Most agile development methodologies promote development, teamwork, communication, and process adaptability throughout the life cycle of the project.
+
+Agile vs. Predictive
+Agile
+•	breaks tasks into small increments with minimal planning –no long term planning
+•	Iterations are short time frames (1-to 4 weeks)
+•	Each iteration involve planning, requirements analysis, design, coding, unit testing, and acceptance testing.
+•	Teams usually are composed of 5 to 9 members who are cross-functional and self-organizing.
+•	Consists of face-to-face meetings which produces less written documentation. Quick meetings are sometimes referred to as stand-ups. The idea derives from meetings that require people to stand need to be short, because otherwise they will tire quickly, versus a long meeting where people would be sitting.
+•	Working software is the primary measure of progress.
+•	More adaptive to project changes than predictive.
+•	Extreme Programming is an example of an agile method.
+Predictive
+•	Plans the future in detail
+•	Tasks are planned for the entire length of the development process
+•	Predictive teams have difficulty adapting to change
+
+Explain extreme programming
+
+Extreme Programming is customer-driven.  Customers rank the features they want in a system, then the most desired features are developed first.  After this feature is tested, the next feature is developed.  Extreme Programming requires teamwork among customers, managers, and developers. It is a very rapid type of systems development that relies on listening to what the customer wants, creating the code to accommodate it, and moving quickly to develop the next function.
+Extreme Programming is the most customer-friendly methodology for systems development. Most methodologies require building a system to meet all possible requirements, resulting in a complete system that takes a long time to develop. In contrast, Extreme Programming solicits customer satisfaction from the beginning by delivering the software when it is needed and then moving on to the next customer request. Extreme Programming responds well to changing customer requirements late into the systems development life cycle.
+This type of quick delivery of new features is accomplished by creating checkpoints that enable customer feedback and requirements review.  Extreme Programming is done in pairs, with one programmer/developer writing the code and the other testing it.
+
+Extreme Programming's 12 Core Practices
+
+Core Practice 1: Customers define application features with usage stories
+Core Practice 2: Extreme Programming teams put small code releases into production early.
+Core Practice 3: Extreme Programming teams use a common system of names and descriptions. This is part of the systems development process, which results in an organized approach to naming conventions.
+Core Practice 4: Teams emphasize simply written, object-oriented code that meets requirements.
+Core Practice 5: Designers write automated unit tests upfront and run them throughout the project.
+Core Practice 6: Extreme Programming teams frequently revise and edit the overall code design—a process called refactoring.
+Core Practice 7: Programmers work in pairs, continually seeing and discussing each other’s code. Programming code is written by two programmers (an agile software development technique) on one machine at which the programmers sit side by side. As one writes the code, the other tests it. This built-in review ensures accurate code that is concise, well written, and contains few mistakes.
+Core Practice 8: All programmers have collective ownership of the code and the ability to change it.
+Core Practice 9: Extreme Programming teams integrate code and release it to a repository every few hours; code is never held longer than a day.
+Core Practice 10: Programmers work full time.
+Core Practice 11: A customer representative remains onsite throughout the development project. Developers have continual access to a system user, who gives developers feedback whenever needed.
+Core Practice 12: Programmers follow a common coding standard so all of the code in the system looks as if it was written by the same person.
+
+Extreme Programming Development Phases
+
+View these short videos: Extreme Programming
+                            	 	Pair Programming Session
+                               	           Interview of a pair programmer
+
+There are five phases of development for Extreme Programming: planning, designing, coding, testing, and listening.
+
+Phase 1: Planning
+During Phase 1, the organization’s users meet with the software developers to develop the requirements for the system. These requirements are in the form of user stories that are broken down into small segments that are developed one at a time. Iterations are made for these stories (also known as features or functions) until the system is complete. During this phase, developers budget time and costs and create an initial schedule.
+Phase 2: Designing
+During Phase 2, programmers focus on simple features that can be programmed quickly by using standard naming conventions, templates, and formats. Ideas and features are written onto note cards, which are then used when designing each feature. These cards are created by the development team, which consists of programmers and users working together. When a card rises to the top of the pile, the feature detailed on that card is developed quickly into the system.
+Phase 3: Coding
+During Phase 3, the programmers produce the program code for each feature. This is an important phase. Quick coding results in completed system features; sometimes a feature can be completed in a day, but it should generally take no more than a week. Coding is done in pairs, with two programmers working at the same computer. One writes the code while the other tests it and looks for additional opportunities. Coding is done to a set of standards that all programmers are required to follow. All programmers in the systems development team own the code collectively. Programmers work 40-hour weeks with no overtime and provide results that meet customer requirements.
+Phase 4: Testing
+Phase 4 is done continually, not only at the end of a major phase. As code is produced, it is unit tested automatically, and the results are compared against test scripts of expected results. Programmers try to break the code they have written as part of the testing process. Customer acceptance testing is done when the coding is complete, after which the updated system is available for the organization’s use. The main purpose of acceptance testing is to ensure that all of the customer’s requirements have been met. It is important that the customer is satisfied with each feature as it is added through the iterative process. More testing is always better than less to ensure high-quality and bug-free features.
+Phase 5: Listening
+Phase 5 involves listening to customers and users, and is critical to XP because this methodology is user driven and requires constant communication.
+
+XP Advantages and Disadvantages
+The XP method incorporates a high level of user input to create a design. It is most effective when an organization needs a system developed quickly and within a limited time frame and budget. This is especially true if the organization is unsure of all of the final needs of the system. Advantages and disadvantages of XP are as follows:
+Advantages
+•	A focus on Programming code for quick delivery of features
+•	A quality methodology for smaller systems, resulting in low cost compared with other methodologies
+•	Simple design, because each feature is coded, tested, and implemented independent of other functionalities
+•	Continuous testing for ensuring quality feature development
+•	Robustness, because each feature is listed along with a cost estimate for organizations to rank feature development
+•	Resilience, because changes can be made late in the system's development life cycle, incorporated into development, and used without going back to an earlier phase as in other methodologies
+•	Reduced risk in Programming and coding because two programmers work on each feature: one writing code and one testing it
+•	High employee satisfaction because of users’ intense involvement during the entire development process
+•	The ability to add features at any time during the development process without negatively affecting development
+Disadvantages
+•	Scant documentation because of the lack of design-centered approach usually followed in larger systems development projects
+•	The potential for user conflicts to bog down the development when agreements are hard to reach
+•	Unstable requirements because of the lack of a formal requirements analysis before design and Programming are done
+•	Limited overall design specifications because features are designed as needed.
+•	Methodology geared toward single projects; not good for large projects
+•	Does not work well when scalability issues exist because they cannot be integrated with other programs later
+•	Constant contact with the customer is assumed, which can be difficult to ensure if users are ambivalent or do not want to be a part of the development team
+
+Competency 3
+The graduate identifies the role of management in Information Systems and the necessity for security and contingency plans.
+
+Information Systems Management and Security
+
+Information systems play a key role in the management and security of data within an organization.  These systems manage the communication, data storage, and technological infrastructure.  It is vital that Information Systems be built and maintained within ethical and secure boundaries.
+
+Information Systems Management and Ethics
+
+It is important to design and develop Information Systems with ethics in mind.  Information should only be available to those who need it, and the privacy and security of end users should always be respected.  It is important to establish and maintain trust throughout the development process.
+
+Explain the importance of information systems management
+
+Organizations need to be able to evaluate their information systems (IS) needs to make the changes necessary to keep up to date with IS technology in a competitive industry. Most large organizations have a steering committee that performs the following activities:
+•	Receives IS requests from the different functional areas in the organization
+•	Evaluates the requests
+•	Chooses which requests to implement
+•	Authorizes the initiation of the systems development life cycle, which may include information technology (IT) or IS audits
+o	A systems-type audit ensures an organization’s systems and applications are appropriate and controlled to maintain security and reliability.
+o	A process-type audit includes a risk analysis of new and existing projects to determine how the organizations compares with its competition in terms of current and innovative technologies.
+     
+     Every employee and department of an organization relies on the services of the IS department.
+
+      Successful management of information systems includes:
+•	Keeping systems from becoming obsolete – replacing legacy systems with new systems using emerging technologies
+•	Integrating different systems within the organization to avoid duplication of information
+•	Ensuring a well-planned, strategic approach to information needs
+•	Maintaining data integrity without duplication, inconsistencies, and errors
+•	Ensuring proper training of staff that works with the various information systems within the organization
+
+Analyze the role of the information technology department in systems management
+
+     The IS department overlaps all parts / functional areas of the organization.
+
+CIO:  highest ranking executive officer responsible for all information systems within the organization.  The CIO manages the following IS departments:
+o	Technology: This department is responsible for investigating new and emerging technologies to determine whether they could be useful to the organization.
+o	Operations: The operations department is responsible for managing all of the computer resources for the organization, including all systems, applications, networks, and user interactions.
+o	Development: The development department is responsible for creating new systems and maintaining current systems. It also addresses user requests for modification.
+o	Outsourcing Relations: The outsourcing relations department is the liaison between the organization and the contracting or consulting firms with whom it contracts. This department negotiates contracts and monitors new systems being built by outsourced firms.
+o	Data Administration: The data administration department is responsible for setting data standards and procedures to protect the information assets of the organization. This group works with the CIO and all other departments.
+
+The information systems (IS) department provides the following key services to the organization:
+•	Supplying user-ID to new employees, and ensuring they create secure password to access the organization’s systems.
+•	Granting access to the systems departmental users need to do their job. This access could be read-only, or more extensive access to change or modify data.
+•	Ensuring each system or application has data integrity, effective structures, and proper channels of access.
+•	Managing the security of data.
+
+Explain the importance of ethics in information systems
+
+Ethics refers to moral guidelines people in organizations follow.  Organizations must be careful in all their business dealings so the public views them as ethical businesses. One unethical decision can undermine the reputation of a company, affecting their ability to keep current customers and attract new customers.
+
+It is crucial for businesses to use their information systems ethically in dealings with customers, suppliers, and governmental agencies.
+
+Determining if a behavior is unethical can be addressed by asking 2 questions:
+1)	Was harm done to anyone?
+2)	Did someone gain an undeserved advantage from the behavior?
+
+Areas of ethical concern in information systems related to privacy and security include:
+1)	networks
+2)	servers
+3)	communications channels
+4)	the organization’s infrastructure
+5)	access to information
+
+Examples of unethical IS behavior:
+1)	Data mining – storing information about people using an organization’s website, typically for marketing advantages, but sometimes at the cost of privacy.
+2)	Copying computer applications without paying for them
+
+Analyze various organizational approaches to managing ethics
+
+•	Informal approach - addressing ethical issues as they arise. 
+•	General written procedures and policies that are loosely applied. 
+•	Written codes of ethics, an ethics department, an ethics officer, and an ethics committee devoted to ethics management and resolution. This approach is usually the most successful at managing ethics in the workplace.
+o	Some topics included in a successful code of ethics include:
+♣	An up-to-date version of the organization’s policies and procedures
+♣	Scenarios of unethical behaviors and their resolution
+♣	Ethics training for all employees
+♣	How unethical behavior is addressed by the organization
+♣	How grievances are heard and addressed by the organization
+♣	Periodic updates of all policies and procedures
+
+Effectively managing ethics begins at the top of the organization.
+
+Some important steps to promote employee ethics:
+•	Select employees from across the organization when establishing committees
+•	Inform employees when ethical policies and procedures are developed
+•	Incorporate ethics policies and procedures into all areas of the organization
+•	Train employees how to recognize unethical behavior, and how to avoid it
+•	Help employees avoid circumstances that make them more vulnerable to unethical situations
+•	Hold formal training that presents scenarios and suggestions for resolving unethical scenarios.
+
+     Business Continuity and Information Systems
+
+There are expectations in our information systems that they will function as intended at all times.  While this goal expresses an ideal, it is not always a reality.  Systems fail, and we must put processes into place to deal with these gaps in functionality.  We can develop ways to backup data, and provide contingency plans in the event of service interruptions.  Disaster recovery plans allow us to rebuild and recover data.  Security management protects secure data, and also develops strategies for dealing with breaches in security.
+
+Identify the types of threats to information systems
+
+Unintentional versus intentional:  
+o	Intentional has the ulterior motive to pose harm, regardless of reason. 
+o	Unintentional threats are those that are not deliberate. They can occur from nature like hurricanes or employee carelessness.
+
+Types of Threats
+Unintentional
+Intentional
+Natural disasters
+Hurricanes, tornados, floods, earthquakes, fires, blizzards
+•	These can cause hardware and software damage, resulting in total or partial loss of information systems and the infrastructure
+
+Human Threats
+•	Unintentional data entry errors (entering wrong data, omitting data that should be entered, etc.)
+•	Employee carelessness (programming errors, lost laptop, deletion of data, etc.)
+•	procedural errors
+•	opening email from unknown sender
+•	unintentionally opening files that are linked to malware/viruses
+•	Impersonation by using false ID to gain unauthorized access to systems
+•	intentional data entry errors
+•	fraud (accessing or destroying data in exchange for money)
+•	theft and vandalism of equipment
+•	arson
+•	spying, to gain information, passwords, and other sensitive information
+•	terrorist attacks on property
+Environmental threat
+•	High temps
+•	water leaks around hardware
+•	high humidity
+•	no ventilation or poor ventilation
+•	electro-magnetic interference
+•	hazardous materials
+•	Intentional release of harmful toxins
+Physical threats
+•	Accidental cutting of cables during construction
+•	power surges
+•	power outages
+•	intentional cutting of cables to impair communication and running of IS
+•	Purposely flooding an area housing an organization’s IS
+Technical threats
+•	Lack of or poor maintenance
+•	hardware failure when OS goes down
+•	CPU malfunction
+•	Intrusion (unauthorized access)
+•	Trojan horses (destructive applications, masquerading as legitimate programs)
+•	back doors (using improper credentials or holes in programs to gain entrance to  a system)
+•	contamination (intentional corruption or manipulation of data)
+•	eavesdropping (electronic means to spy on protected data, like monitoring key-strokes for passwords)
+•	malicious software coding
+•	Add’l technical threats (definitions below): sniffing, spoofing pretexting, phishing, communication threats, spyware, denial-of-service attacks, Malware (computer viruses)
+
+
+
+-	Sniffing – intercepting communications over unprotected wireless networks
+-	Spoofing – pretending to be someone else by using their IP address to obtain personal information
+-	Pretexting - A person deceives someone by pretending to be someone else. For example, a phone scam, where the caller implies they are from a credit card company to check validity of a credit card, when they are really trying to gain personal information.
+-	Phishing- pretexting, using email. Person pretends to be a legitimate company and sends an email trying to obtain confidential information.
+-	Spyware – programs transferred to a computer that monitor activities on the computer to capture personal information.
+
+Explain how an organization can keep its information secure
+
+A security plan must be in place to protect all of the components of an information system.
+Hardware security – all hardware should be in a safe, secure area. Users should keep their individual workstations security. Additional security options are disk drive locks, alarm systems, and locks to protect USB drives. Constant temperatures should also be maintained in the server rooms.
+
+Software security – this begins with proper authority to access the applications and programs on a system. Security efforts include: 
+o	requiring use of user IDs and passwords to authenticate the users.  More recent types of software security are use of smart cards, containing a magnetic strip that includes authentic user ID, and biometric authentication, such as scanning personal physical characteristics (face, voice, fingerprints).
+o	Software firewalls– keep intruders from accessing software by filtering inbound and outbound communications that are not validated
+o	Malware protection – malware includes computer viruses and worms, and can be controlled by using good antimalware protection practices.
+
+Data security – data is contained in a database, so the database administrator usually sets data security standards.  Data should be encrypted when it is stored.
+o	Backups – ensuring periodic backups is one of the most important data security measures. The frequency can be anywhere from daily to yearly. If data is corrupted, the backup files are used to refresh the data so it is usable again.
+o	Data rights – users are assigned data access rights based on the need to do their job.  They should only have the ability to modify data if they are directly responsible for it.  If they only need to view the data, they should be given read-only access.
+
+People security – this begins with the hiring process – reference checks and background checks are part of a good screening process when hiring employees that will use an organization’s information resources.   Once hired, they should be assigned the proper access credentials to all access to the data they need to perform their job.  New employees also need to receive proper training on the use of the information systems resources.  Frequent changing of passwords and ongoing training can provide additional levels of security.
+
+
+Some physical and environmental safeguards can be made as part of a security management plan:
+•	Cubicle design – workspace design can deter casual spying on contents of computer screens
+•	ID badge – used to open doors to areas where someone can access data via computer screens, storage media, etc.
+•	Shredder – destroying paper-based materials that can contain confidential information
+
+Identify techniques and media used to back up data
+
+Restoring data is a process that recreates data that has been lost. This can only happened if the organization has stored copies of its data, usually offsite.  Federal law requires some businesses to back up their data.  Some Acts of Congress that demand data backup are:
+o	Sarbanes-Oxley Act
+o	HIPPA (Health Insurance Portability and Accountability Act) – secure health records
+o	GLBA (Gramm-Leach-Bliley Act) – banking industry
+
+Optical Media:
+Firms can use optical media—DVDs and CDs—to back up relatively small amounts of data. The advantage of this medium is the ability to store the backups both onsite and offsite safely and easily by using numerous copies. Data can also be restored quickly by using this method.
+
+Semiconductor:
+Semiconductor data storage consists of nonvolatile memory chips. One of the most popular types is the Flash drive. These drives can accommodate data storage for small- to medium-size firms. This type of storage is fast but expensive.
+
+Magnetic Tape:
+Using magnetic tape to back up data was the preferred method for large organizations for many years until more modern techniques were introduced. Magnetic tape data storage is inexpensive but slow compared with most other means.
+
+Online (or Cloud) Data Storage:
+Many organizations use cloud data storage, which is provided by third-party firms that specialize in online data storage. The many benefits of online/cloud data storage include the following:
+•	Unlimited capacity for storing data
+•	No computer infrastructure required by the organization
+•	Flexible payment options for businesses of all sizes
+•	Data are stored on more than one site
+•	Automated backup is initiated based on customer requirements
+
+Explain the purpose of a disaster recovery plan
+
+View a short video: Hot, Cold, and Warm Sites
+
+A data disaster for an organization is any event that causes systems to fail or lose data. Disaster recovery refers to what organizations can do to bring their systems and data back online.
+
+Organizations must be able to recover from a disaster. Statistics show that more than 80% of organizations that lose their systems or data and cannot recover from the loss will go out of business within 3 years.
+
+Organizations spend 2-4% of their information technology budget on disaster recovery.  Good disaster recovery plans reduce the financial impact a disaster can have on the business.
+
+The objectives of a disaster recovery plan are:
+o	Decrease risk of disaster
+o	Reduce probability of disaster
+o	Reduce insurance premiums
+o	Protect assets
+o	Reduce dependence on human decision making after a disaster
+o	Continue organizational stability
+o	Improve employee safety
+ 
+
+Steps to create a disaster recovery plan (DRP):
+o	Select DRP team members from across the entire organizations, to include IT professionals.  This team will be responsible for developing and administering the DRP.
+o	Conduct a risk analysis
+o	Identify recovery options
+o	Create a DRP strategy, which should include the following:
+•	A list of key contacts, including customers
+•	Hardware and software considerations
+•	Data files affected
+•	Communications and infrastructure
+•	Organizational facilities, if needed
+•	Hot  sites needed (sites operated remotely, usually by third parties, until full recovery)
+•	Cold sites needed (sites operated by the organization until full recovery)
+•	Any other items specific to unique scenarios
+
+Identify the types of data that should be protected
+
+Businesses must implement levels of security to protect their information systems, especially related to vital customer information.
+
+Types of data to protect:
+•	Business financial information.  This information can be useful to a competitor.
+•	Customer information: names and IDs, national ID numbers (social security numbers), financial information, personal information (phone numbers, address, names of family members, etc.), banking information, credit card numbers.
+
+This data should be safeguarded to ensure the following:
+•	Confidentiality – preventing unauthorized access
+•	Integrity – guarding information against unauthorized change or destruction
+•	Availability – ensuring reliable and timely access to systems and information
+
+Identify the reasons for reporting security compromises
+
+If you are aware of or witness a security compromise, they should be reported to:
+•	Protect the company and the customer
+•	Identify the offender and prevent the breach from occurring again
+•	Limit the damage that is caused
+•	Alert customers to possible security threats
+•	Help in the resolution of security incidents
+•	Enable a company’s security policies and procedures to be effective
+
+Select the appropriate security management decisions in a given scenario
+
+
+Competency 4
+The graduate recognizes the need for support center tools, and identifies ways to manage the support process
+
+Support Center Tools, Techniques, and Metrics
+
+Customer support centers are a business’ lifeline for their customers to reach out to for support.  As a main point of contact, it is important that this part of the process be managed efficiently to maintain customer satisfaction.
+
+Management Tools in the Customer Service Center
+
+It is important to track issues being handled in a customer support center.  There are tools available that manage this process and allow end-user issues to be tracked and resolved in a timely manner.  It also allows for solutions to be archived and queried if other users experience similar problems.
+
+Recognize the benefits of using management tools in the customer support center
+
+Problem Management benefits
+•	Reduce the number of errors and incidents.	
+•	Quality of service improves – improved relationships with customers
+•	Increased organizational knowledge of products and services
+•	Contributes to proactive problem management
+
+Problem management can be both proactive and reactive
+•	Proactive – work is done to resolve issues before reported as problems by customers. (Problem / Solution / Customer)
+•	Reactive – customer initiates problem solving, by contacting support center. (Customer / Problem / Solution)
+
+Support Center Focus
+•	Problem Control - focuses on incidents and problems
+•	Error Control -focuses on errors and workarounds
+•	Proactive problem prevention
+
+Misc. Terminology
+•	Problem - is an unknown root cause of a series of incidents
+•	Error - an incident or problem with a known root cause, but not resolved.
+•	Workaround – a temporary resolution for an error while a permanent solution is confirmed.
+
+
+Identify the problem management tools available to customer support centers
+
+•	Telephone system - most important tool
+•	Email - - many times pre-formatted, to insure customers report enough diagnostic information to solve the reported problem
+•	Problem database - usually includes descriptions of reported problems and solutions or workarounds
+•	Support hierarchy and call escalation guidelines
+•	Scripts – contain appropriate questions to diagnose an incident, reducing need for follow up contact to customer.  They provide consistency in service.
+
+Problem Management Steps:
+1. Record the incident
+2. Categorize / classify the incident
+3. Check the incident against known errors and problems
+4. Track progress toward resolution
+5. Provide Closure
+
+CHANGE MANAGEMENT
+
+Organizations change for many reasons, primarily to improve products, processes, and services, and to stay competitive. Change management is the process that enables management to analyze and control the implementation of approved changes while minimizing disruption among the members of an organizational unit or department.  Some examples of change in an organization that could affect its employees in a Customer Support Center are installation of a new phone system, and new software to manage the problem/solution documentation and scripts.  
+
+Identify the appropriate stages of change management to use in a given scenario
+
+
+Sequence the stages of the change-management process
+
+
+Steps in the Change-management Process
+STEP
+DESCRIPTION
+1. Acceptance and filtering
+The Change Request Form is submitted to the change coordinator, where it is verified for completeness. The change coordinator checks to ensure there are no similar or duplicate requests already in the system.
+2. Classification
+To ensure resources are conserved, the change is classified to determine when it should be addressed. Change requests are classified by urgency, by cost, by potential for return on investment (ROI), or by the amount of project effort required to make the change, for example.
+3. Formal approval
+Formal approval occurs after the request has been reviewed, revised as needed, and classified. At this point, the project or work required to make the change can be scheduled and budgeted for.
+4. Building, testing, and implementation
+This step is where the real work takes place. The change goes from the drawing board to reality.
+5. Post-implementation review
+The process or procedure that was the subject of change is reviewed to learn whether the change produces the savings that were projected for it when it was proposed.
+
