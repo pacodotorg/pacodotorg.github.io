@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>be &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/tag/be/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 06 Jan 2013 03:33:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>be &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ben tries to eat</title>
+		<link>https://paco.org/ben-tries-to-eat/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sat, 18 Feb 2006 23:17:42 +0000</pubDate>
+				<category><![CDATA[Scrapbook]]></category>
+		<category><![CDATA[be]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=510</guid>
+
+					<description><![CDATA[How can a baby concentrate on eating green beans when there&#8217;s a camera rolling?]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>games &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/category/games/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Thu, 29 Sep 2016 13:45:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>games &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Would you like to play a game?</title>
+		<link>https://paco.org/would-you-like-to-play-a-game/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2016 13:45:09 +0000</pubDate>
+				<category><![CDATA[80s]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=294</guid>
+
+					<description><![CDATA[In this game of high adventure, your objective is to travel 200 miles across the great Gobi Desert while being chased by a tribe of knock-kneed pygmies. High adventure, indeed!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Age of Marvels</title>
+		<link>https://paco.org/the-age-of-marvels-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Thu, 21 Jun 2012 02:28:00 +0000</pubDate>
+				<category><![CDATA[80s]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">http://34.209.47.176/wp/2012/06/21/the-age-of-marvels/</guid>
+
+					<description><![CDATA[I clearly remember picking out this magazine from the rack and shelling out the three bucks it cost. A bit pricey for those days (1981, 82?) but I definitely got my money’s worth. I must have read it dozens upon dozens of times: I loaned it to friends, got it back, kept it in my [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eats &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/category/eats/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Tue, 01 Jan 2013 20:33:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>Eats &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Texas Land &#038; Cattle — Arlington, TX</title>
+		<link>https://paco.org/texas-land-cattle-arlington-tx/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Mon, 31 Dec 2012 15:41:21 +0000</pubDate>
+				<category><![CDATA[Eats]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=1145</guid>
+
+					<description><![CDATA[Had not been to the Arlington Texas Land and Cattle in a few months — not since it moved to its new location anyway. No longer will patrons have to fight over limited parking real estate with On the Border customers as the new location has plenty of space for itself and even overflow from [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Toby Keith&#8217;s I Love This Bar &#038; Grill — Dallas</title>
+		<link>https://paco.org/toby-keiths-i-love-this-bar-grill/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sun, 30 Dec 2012 04:00:40 +0000</pubDate>
+				<category><![CDATA[Eats]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=1010</guid>
+
+					<description><![CDATA[We&#8217;ve walked past this joint in Vegas plenty of times, actually ate at the one at Winstar Casino once (it was OK), and had about average expectations for the Dallas incarnation, which is housed within the walls of the old AMC Grand 24. We finally ventured to this locale after purchasing a Groupon some time [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tacos La Banqueta — Dallas, TX</title>
+		<link>https://paco.org/tacos-la-banqueta-dallas-tx-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Tue, 08 May 2012 03:56:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Eats]]></category>
+		<guid isPermaLink="false">http://34.209.47.176/wp/2012/05/08/tacos-la-banqueta-dallas-tx/</guid>
+
+					<description><![CDATA[Not much to say about the restaurant that is Tacos La Banqueta (formerly “El Güero”) in East Dallas. The menu, however, is a different story. The taco shack is just that, a locale not much larger than your average storage unit. It seats maybe six customers in 50s-style cafeteria stools inside and there’s hardly any [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>No place like home</title>
+		<link>https://paco.org/no-place-like-home-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Mon, 07 May 2012 04:24:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Eats]]></category>
+		<guid isPermaLink="false">http://34.209.47.176/wp/2012/05/07/no-place-like-home/</guid>
+
+					<description><![CDATA[Chicken and beef skirt kabobs, or dinner+leftovers as we like to call them at home. I’m not much of a cook, and the few things that I venture to try to prepare on my own I grill. For the price of a single outing to a restaurant, a trip to the grocery store provides up [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ralph &#038; Kacoo&#8217;s — Bossier City, LA</title>
+		<link>https://paco.org/ralph-kacoos-bossier-city-la/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Mon, 09 Jan 2012 15:35:54 +0000</pubDate>
+				<category><![CDATA[Eats]]></category>
+		<category><![CDATA[bossier city]]></category>
+		<category><![CDATA[fish]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[seafood]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=1030</guid>
+
+					<description><![CDATA[My wife and frequented the Ralph &#38; Kacoo&#8217;s in Allen (Texas), but that closed in the last year, which is too bad because it was one of our favorite seafood places in the Metroplex. On a recent visit to Shreveport, we opted to dine at this Ralph &#38; Kacoos. Service was prompt at the get-go, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

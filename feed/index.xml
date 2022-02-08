@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pacodotorg</title>
+	<atom:link href="https://paco.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 30 Jan 2022 17:45:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Old life for a new site?</title>
+		<link>https://paco.org/old-life-for-a-new-site/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sat, 29 Jan 2022 21:52:21 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2620</guid>
+
+					<description><![CDATA[First time posting anything in a while&#8230; actually, saving the post locally and sneaking it into Github?]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pink, pink pink</title>
+		<link>https://paco.org/2296-2/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sun, 02 Sep 2018 03:17:57 +0000</pubDate>
+				<category><![CDATA[Listen to this]]></category>
+		<category><![CDATA[commercial]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[nick drake]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[volkswagen]]></category>
+		<category><![CDATA[vw]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2296</guid>
+
+					<description><![CDATA[Although my formative years took place in the 1980s, the 90s were a force to be reckoned with, once I started to pay attention. That being said, the close of the decade brought a seal to the era in an unusual way: a commercial on television, featuring a song from the 1970s. There&#8217;s many an [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The time machine</title>
+		<link>https://paco.org/the-time-machine-2/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2018 04:31:25 +0000</pubDate>
+				<category><![CDATA[Listen to this]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2301</guid>
+
+					<description><![CDATA[I have the habit of not changing the station, or the tape, or the CD, or the playlist that I listen to and I end up listening to the same album for months on end. Whether it be auto search, or song skip or whatever, I burn a song in my head until I get [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>And then all things changed</title>
+		<link>https://paco.org/and-then-all-things-changed/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2017 03:36:11 +0000</pubDate>
+				<category><![CDATA[80s]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2303</guid>
+
+					<description><![CDATA[(Somehow rearranged.) And it happened driving somewhere in somebody&#8217;s car, that the radio played the M/A/R/R/S mashup &#8220;Pump Up the Volume,&#8221; and music changed forever, all at once. Your browser does not support the audio element. NOTE TO SELF: &#8220;&#8230; and then all things changed, somehow rearranged&#8221; are the lyrics I remember from the early [&#8230;]]]></description>
+		
+		
+		<enclosure url="https://ia802603.us.archive.org/20/items/MARRS-Pump-Up-The-Volume-1998-CD/M-A-R-R-S%20-%20Pump%20Up%20the%20Volume.ogg" length="0" type="audio/ogg" />
+
+			</item>
+		<item>
+		<title>An important song for me</title>
+		<link>https://paco.org/2306-2/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2016 04:55:50 +0000</pubDate>
+				<category><![CDATA[90s]]></category>
+		<category><![CDATA[Listen to this]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2306</guid>
+
+					<description><![CDATA[No explanation, really. At the time — 1991, I think — I was stuck in a bus for two days. It moved forward, yes, but ever so slowly. All the time, all I had was my Sony Walkman and one single tape — “Goodbye Yellow Brick Road” by Elton John. Also, I only had two [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

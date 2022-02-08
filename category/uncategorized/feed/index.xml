@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sat, 19 Mar 2016 00:37:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>Uncategorized &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DEMO BRAG — A BASIC program from the past</title>
+		<link>https://paco.org/demo-brag-a-basic-program-from-the-past/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Sat, 19 Mar 2016 00:37:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=276</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New school year, new password</title>
+		<link>https://paco.org/new-school-year-new-password/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Thu, 21 Jan 2016 01:39:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=278</guid>
+
+					<description><![CDATA[Hello, Monday (Wednesday — actually, Friday)! As we all get ready for the new year, and then again 90 days from now, and in yet another three months, ad nauseum — the computer system will ask you to pick a new password to access the information you so desperately need right now. Although this may [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Looks legit</title>
+		<link>https://paco.org/looks-legit-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Thu, 24 Oct 2013 16:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://paco.org/looks-legit-2/</guid>
+
+					<description><![CDATA[Acquiring Photoshop expertise means never having to worry about your Halloween pictures. Taken from imgur. Am I doing this right?]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What have you done?</title>
+		<link>https://paco.org/what-have-you-done-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2013 18:39:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://34.209.47.176/wp/?p=170</guid>
+
+					<description><![CDATA[Taken from We Know Memes.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Keeping up with the Intels</title>
+		<link>https://paco.org/keeping-up-with-the-intels-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2013 02:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://paco.org/keeping-up-with-the-intels-2/</guid>
+
+					<description><![CDATA[What does it mean when my phone loads my site dozens of times faster than my desktop (floortop) machine?]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

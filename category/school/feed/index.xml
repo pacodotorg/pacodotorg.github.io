@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>school &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/category/school/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Mon, 27 May 2019 04:16:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>school &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Computer Skills Requirements</title>
+		<link>https://paco.org/computer-skills-requirements/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2016 14:12:56 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=306</guid>
+
+					<description><![CDATA[You need to have a basic knowledge of computer and Internet skills in order to be successful in an online course. Here are some of the highlights: Knowledge of terminology, such as browser, IMHO, application, etc. Understanding of basic computer hardware and software; ability to perform computer operations, such as: Using keyboard and mouse Managing [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Web Design Resources</title>
+		<link>https://paco.org/web-design-resources/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Tue, 31 May 2016 14:12:46 +0000</pubDate>
+				<category><![CDATA[code]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">http://paco.io/wp/?p=236</guid>
+
+					<description><![CDATA[Tutorials and Books W3 Schools Don’t Fear the Internet Codecademy Code School Learn CSS Layout HTML5 and CSS3 Fundamentals envatotuts+ Videos Khan Academy Google: HTML, CSS, and Javascript from the Ground Up Lab Files for Above]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>No need to get cocky</title>
+		<link>https://paco.org/no-need-to-get-cocky/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Sun, 27 Oct 2013 17:58:00 +0000</pubDate>
+				<category><![CDATA[school]]></category>
+		<guid isPermaLink="false">https://paco.org/no-need-to-get-cocky/</guid>
+
+					<description><![CDATA[Just some guy at the chicken farm rounding up a herd. Actually, just a creative guy with some free time that saw the opportunity to have some fun with Photoshop and created a scene out of a Saturday morning cartoon (remember those? ever hear of a Saturday morning cartoon?). It’s small, projects like this that allow graphic [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Twenty-thirteen</title>
+		<link>https://paco.org/twenty-thirteen-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2012 14:27:00 +0000</pubDate>
+				<category><![CDATA[80s]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[school]]></category>
+		<guid isPermaLink="false">http://34.209.47.176/wp/2012/12/06/twenty-thirteen/</guid>
+
+					<description><![CDATA[The first computer ID I was assigned was the number 2013 when I was 11 years old and enrolled in the gifted-and-talented program in my junior high school. By gifted and talented, the school meant students should use computers to solve second-grade math problems. Luckily, the teachers in charge knew nothing about the system, and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

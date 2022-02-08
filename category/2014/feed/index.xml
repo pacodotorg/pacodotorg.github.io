@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2014 &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/category/2014/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 31 Jul 2016 22:41:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>2014 &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The HASfit absolute beginner&#8217;s workout</title>
+		<link>https://paco.org/the-hasfit-absolute-beginners-workout/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Wed, 24 Jul 2013 01:46:56 +0000</pubDate>
+				<category><![CDATA[2014]]></category>
+		<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=1974</guid>
+
+					<description><![CDATA[A few months back my wife and I tried the &#8220;Insanity&#8221; workout and clearly were crazy for doing so. I&#8217;m sure it&#8217;s worked for a lot of people, but to us it was hell on our knees and feet — too high impact. Looking online for a better solution, I found a lot more high-impact [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

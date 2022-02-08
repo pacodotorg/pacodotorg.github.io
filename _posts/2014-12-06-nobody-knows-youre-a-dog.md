@@ -8,4 +8,4 @@ published: true
 
 Nobody knows you're a pack of dogs, is more like it.
 
-![Nobody knows you're a dog](/images/dog.jpg)
+![Nobody knows you're a dog](/img/dog.jpg)

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vw &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/tag/vw/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 30 Jan 2022 17:44:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>vw &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pink, pink pink</title>
+		<link>https://paco.org/2296-2/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sun, 02 Sep 2018 03:17:57 +0000</pubDate>
+				<category><![CDATA[Listen to this]]></category>
+		<category><![CDATA[commercial]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[nick drake]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[volkswagen]]></category>
+		<category><![CDATA[vw]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2296</guid>
+
+					<description><![CDATA[Although my formative years took place in the 1980s, the 90s were a force to be reckoned with, once I started to pay attention. That being said, the close of the decade brought a seal to the era in an unusual way: a commercial on television, featuring a song from the 1970s. There&#8217;s many an [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

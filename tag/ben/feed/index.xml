@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ben &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/tag/ben/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 06 Jan 2013 16:01:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>ben &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Christmas 2012, with a bonus present!</title>
+		<link>https://paco.org/christmas-2012-with-a-bonus-present/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Tue, 25 Dec 2012 23:18:20 +0000</pubDate>
+				<category><![CDATA[Scrapbook]]></category>
+		<category><![CDATA[ben]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[sophie]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=798</guid>
+
+					<description><![CDATA[Christmas Day started with breakfast and the opening of presents at Grammy and Grandpa&#8217;s house. Everybody got some pretty cool presents — including a camera tripod for Uncle Paco, maybe now he can get in some of the pictures! Lunch followed at Grandma&#8217;s house, where we were treated to a snowfall before dessert. Click the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shoo, duck! (feeding the ducks)</title>
+		<link>https://paco.org/shoo-duck-feeding-the-ducks/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sat, 12 Nov 2011 23:44:03 +0000</pubDate>
+				<category><![CDATA[Scrapbook]]></category>
+		<category><![CDATA[ben]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=1001</guid>
+
+					<description><![CDATA[Ben and Uncle Paco took a quick trip to the Irving pond to feed some ducks, and it was all fine, tossing bread and making new friends. At least one of them, however, got too close for comfort! Click on image to see album:]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A trip to the Fort Worth Zoo</title>
+		<link>https://paco.org/a-trip-to-the-fort-worth-zoo/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sat, 30 Apr 2011 18:50:13 +0000</pubDate>
+				<category><![CDATA[Scrapbook]]></category>
+		<category><![CDATA[ben]]></category>
+		<category><![CDATA[sophie]]></category>
+		<category><![CDATA[zoo]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=1260</guid>
+
+					<description><![CDATA[Click on image to see album:]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Christmas 2009</title>
+		<link>https://paco.org/christmas-2009/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2009 00:11:31 +0000</pubDate>
+				<category><![CDATA[Scrapbook]]></category>
+		<category><![CDATA[ben]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[sophie]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=1004</guid>
+
+					<description><![CDATA[Rescued images from a Flickr album. Also, some video. Click on image to see album:]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>It&#8217;s all happening at the zoo&#8230; May 2009</title>
+		<link>https://paco.org/its-all-happening-at-the-zoo-may-2009/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Thu, 07 May 2009 12:53:22 +0000</pubDate>
+				<category><![CDATA[Scrapbook]]></category>
+		<category><![CDATA[ben]]></category>
+		<category><![CDATA[sophie]]></category>
+		<category><![CDATA[zoo]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=812</guid>
+
+					<description><![CDATA[Sophie and Ben visited the Fort Worth Zoo with Aunt Shelley and Uncle Paco. Saw crocodiles AND alligators&#8230; Click on image to see the album:]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

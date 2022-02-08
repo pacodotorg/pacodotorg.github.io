@@ -1,0 +1,542 @@
+Data is _______ _________ without further meaning.
+raw facts
+
+Information is data that an Information System (IS) has ________________ into meaningful information.
+transformed
+
+Good Information Chracteristics
+Accurate (free from errors), 
+Timely (available when needed), 
+Relevant (appropriate), 
+Sufficient (the right amount), 
+Reliable
+Cost-Effective (cost doesn't outweigh benefits).
+
+Two types of Information decisions
+Structured - follows a formula
+Unstructured - possibly several answers would work
+
+Managerial Information Systems
+Executive - highly summarized
+Managerial - tactical decision making based upon Exec.
+Operational - Structured, detailed
+
+Five Component Parts in Information System
+Hardware, Software, Data, Procedures, People
+(Howard, Saw, Dana, Poke, Peter)
+
+Information Granularity
+Course - Highly Summarized, usually a report.
+Fine - Highly detailed useful for low level managers
+
+3 Roles in Information Systems
+Computer User - Basic, can operated the system
+Super User - Understands the IS and how it works
+Expert User - Can operate, train and convert old to new
+
+Business Process
+is a network of activities, repositories, roles, resources and flows (series of steps) that interact to accomplish a business function.
+
+Fully Automated Process
+network of IS takes inventory, reduces stock, tracks buying trends and identifies times to reorder. (Walmart)
+
+Partially Automated Process
+Staff counts inventory, inputs inventory in spreadsheet or data collection tool and executes a purchase electronically. (small grocery)
+
+Fully Manual Process
+items manually weighed, sold, and verbally providing the customer the price. (Farmers Market)
+
+Business Process Engineering Phases
+Create As-Is, Create Components, Implement Process, Assess Results
+
+Business Process Engineering - Phase 1
+Create an As-Is Model. Ensures understanding of the Current Process
+
+Business Process Engineering - Phase 2
+Create the Components (Hw, Sw, Data, Proc. People)
+
+Business Process Engineering - Phase 3
+Implement the processes, which should be more efficient, streamlines, and easier than the old process.
+
+Business Process Engineering - Phase 4
+Assess the results, to monitor the effectiveness of the new processes.
+
+Process Modeling
+a graphic representation, using process modeling notation, of how data flow and how activities are related in an organization.
+
+Process Modeling Symbol - Rectangle
+Activity
+
+Process Modeling Symbol - Diamond
+Decision / Gateway
+
+Process Modeling Symbol - Page
+Data
+
+Process Modeling Symbol - Dashed Line
+Data Flows
+
+Process Modeling Symbol - Solid Line
+Control Flows
+
+Components of the Business Process
+Activities, Resources, Facilities, Data Flows
+
+What are Facilities
+storage areas (warehouses or Databases)
+
+Organizational Strategy
+the alignment of a companies planning, decisions, and actions to enable it to reach its goals, mission, objectives
+
+2 reasons why organizations create information systems
+1. obtain its goals, objectives or mission.
+2. solve a major problem or meet a challenge
+
+Michael Porter's Five Forces Model - Reasons
+1. better understand the industry
+2. determine how attractive the prospect of starting a business in a given industry.
+3. how to conduct a successful business in a given industry
+
+Porter's Five Forces 1
+Rivalry
+
+Porter's Five Forces 2
+Threat of Substitution -
+
+Porter's Five Forces 3
+Customer Bargaining Power - customer influence
+
+Porter's Five Forces 4
+Supplier's Power - influence from a supplier
+
+Porter's Five Forces 5
+Threat of New Entrant
+
+Porter's Generic Strategies Model Reasoning
+1. Businesses leverage their strengths to select the strategy for best success
+2. identify the best way to operate
+
+Porter's Generic Strategies 1
+Broad Cost Leadership - Across a industry
+
+Porter's Generic Strategies 2
+Broad Differentiation - Unique
+
+Porter's Generic Strategies 3
+Narrow Cost Leadership
+
+Porter's Generic Strategies 4
+Narrow Differentiation
+
+Broad Cost Leadership Strategy
+reduced overall production/distribution cost, and appeal to cost-conscious customers. Lower prices (maintaining value (cost/quality)
+
+Broad Differentiation Strategy
+products stand out, customers willing to pay premium price. Focus on satisfying under-served needs.
+
+Narrow Cost Leadership Strategy
+focus on cost behavior on a smaller segment (southwest - only in certain markets and one type of aircraft)
+
+Narrow Differentiation Strategy
+focus on one market segment (ferrari targets high performance car enthusiasts)
+
+Value Chain
+network of value creating activities with primary activities that create value and secondary activities that indirectly contribute to value creation
+
+Value Chain - Primary Activites
+Inbound Logistics, Operations, Outbound Logistics, Marketing and Sales, Service
+
+Value Chain - Secondary Activities
+Procurement, Human Resources, Technological Development, Infrastructure
+
+Advantages using Value Chain Analysis
+Identify inefficiencies, enhancing activities, modifying activities, identifying weak information systems
+
+Approaching an IS using Porter's model - steps
+1. Five Forces - understanding of the forces the company faces in the industry
+2. generic strategies - organization develop the best way to compete.
+3. Value Chain - enables the org to break down processes to look for opportunities.
+
+Tasks to Determine Requirements - System Development
+1. Cooperate
+2. Identify Expectations
+3. Examine Previous Work
+4. Ask Questions
+
+The _____ a project the harder it is to change
+Larger
+
+Budgeting Factors - Tools to Determine System Cost
+Cost Benefit Analysis
+Cost Projection
+Examining Past Projects and their Costs
+
+Outsourcing Advantages
+1. Management Advantage
+2. Cost Reduction (initially)
+3. Risk Reduction (initially)
+
+Outsourcing Disadvantages
+1. Loss of Control
+2. Benefits eventually outweighed by overall cost
+3. No Easy Exit
+
+System Development Life Cycle (SDLC)
+a rigid, phased approach to system development. Usually offers a high chance for success.
+
+Tools in System Development Life Cycle (SDLC)`
+Work Breakdown Structure (WBS) - outline view of tasks ordered by phases.
+Gantt Chart - displays tasks and dependencies
+
+System Development Life Cycle (SDLC) Strengths
+1. Able to monitor and maintain control over large projects
+2. detailed phases
+3. Good documentation
+4.Great input into requirements
+5. Easy System Maintenance
+6. Staff changes do not impact development
+
+System Development Life Cycle (SDLC) Weaknesses
+1. Longer Development time
+2. Higher Cost
+3. needs well-defined systems at the beginning
+4. Rigid Process
+5. difficulty estimating scheduling and budgeting
+6. Limited user input
+
+System Development Life Cycle (SDLC) Phases
+Planning, Analysis, Design, Implementing, Maintenance
+
+System Development Life Cycle (SDLC) Phase 1
+Planning
+- define the scope
+- conduct feasibility studies
+- form a project team
+
+System Development Life Cycle (SDLC) Phase 2
+Analysis
+- identify system requirements
+- identify system object requirements
+- identify system security requirements
+- identify personnel procedures
+- create a data model
+
+System Development Life Cycle (SDLC) Phase 3
+Design
+- HW
+- SW
+- DB
+- Create job descriptions
+- Create system procedures
+
+System Development Life Cycle (SDLC) Phase 4
+Implementation
+- Build the system
+- test the system
+- - - Unit Test
+- - - User Test
+- Conversion
+- - - Parallel
+- - - Pilot
+- - - Plunge
+- Training
+
+System Development Life Cycle (SDLC) Phase 5
+Maintenance
+- Resolve request for revisions
+- Addressing reported problems
+- Issuing Patches
+
+Prototyping
+building a preliminary model of a proposed finished system / temporary systems that don't include all functionality
+
+Prototyping advantages
+1. Development time / cost is reduced
+2. Systems likely to fulfill user requirements
+3. User involvement provide valueable feedback
+4. Users adapt easily to finished system
+
+Prototyping Disadvantages
+1. Users use prototypes as final systems
+2. Documentation is incomplete
+3. expectations are high and lead to disappointment of final system
+4. prototyping can not accommodate large amounts of users
+
+Prototyping Steps
+1. Identify
+2. Develop
+3. Test
+4. Refine
+
+Prototyping is an __________ approach
+iterative
+
+Object Orientated Development (OOD) is _________ System
+unstructured
+
+Polymorphism
+ability to appear in different forms (object appearing as a subobject)
+
+Encapsulation
+act of storing data and procedures together in an object
+
+Inheritance
+allows an object to inherit properties from objects in different classes
+
+Classes
+collections of similar objects that can contain subclasses
+
+Objects
+entities that can interact with one another
+
+Object Orientated Development (OOD) Advantages
+1. Code is modified easily using other objects
+2. objects are reusable
+3. objects are modular
+4. Security is easy to set in program code
+
+Object Orientated Development (OOD) Disadvantages
+1. Code is difficult to read and understand
+2. OOD is ineffective at representing non-objects
+3. it takes longer to execute routines
+4. fewer functions
+5. not user friendly
+6. extensive evaluation and monitoring
+
+Rapid Application Development (RAD)
+a methodology that enables a rapid development process for systems while maintaining an acceptable level of quality.
+
+Rapid Application Development (RAD) Qualities
+- Accomplished in small groups
+- prototyping and iterative testing
+- reuses software components
+- uses visual programming
+- 80/20
+
+Rapid Application Development (RAD) develops softaware by ________ and ________ existing software components into a new system
+assembling, integrating (Component based Development)
+
+Rapid Application Development (RAD) Life Cycle
+1. Requirements Planning
+2. User Design
+3. Construction
+4. Implementation
+
+Rapid Application Development (RAD) Advantages
+1. Good when scope is limited
+2. Good when requirements are not complex
+3. Quick response
+4. Flexible
+5. Extensive User Participation
+6. Fast
+
+Rapid Application Development (RAD) Disadvantages
+1. less scalable, may not contain all the features
+2. more costly
+3. quality problems
+4. needs not adequately met
+5. less efficient
+6. Prone to Problems
+
+Agile Systems Methodology Advantages
+1. breaks tasks into small increments with minimal planning -no long term planning
+2. Iterations are short time frames (1-to 4 weeks)
+- - Each iteration involve planning, requirements analysis, design, coding, unit testing, and acceptance testing.
+3. Small crossfunctional teams
+4. Face to Face communications / Stand-Up Meetings
+5. Working software is the primary measure of progress.
+6. More adaptive to project changes than predictive.
+
+Agile Systems Methodology is based on...
+iterative and incremental development.
+
+Extreme Programming (XP) is
+customer-driven, agile process
+
+Extreme Programming (XP) response well to changes because....
+of checkpoints that enable customer feedback and review
+
+Extreme Programming (XP) 12 core practices
+1. Customer Defines application with User Stories
+2. XP team puts small code into production
+3. xp use common system names and descriptions
+4. simply written, object orientated code meets requirements
+5. wirtes automated uint tests upfront uses through out the process.
+6. frequent revise and edit of unit code (Refactoring)
+
+Extreme Programming (XP) 12 core practices (part 2)
+7. Pair Programming
+8. Collective Ownership of code
+9. integrate code and save to repository every couple hours
+10. programmers work full time
+11. Customer Rep onsite through out development
+12. common coding structure
+
+Extreme Programming (XP) Phases
+1. Planning
+2. Designing
+3. Coding
+4. Testing
+5. Listening
+Please, Don't, Chew, The, Line
+
+XP Advantages
+1. A focus on Programming code for quick delivery of features
+2. A quality methodology for smaller systems, resulting in low cost compared with other methodologies
+3. Simple design, because each feature is coded, tested, and implemented independent of other functionalities
+4. Continuous testing for ensuring quality feature development
+5. Robustness, because each feature is listed along with a cost estimate for organizations to rank feature development
+6. Resilience, because changes can be made late in the system's development life cycle, incorporated into development, and used without going back to an earlier phase as in other methodologies
+7. Reduced risk in Programming and coding because two programmers work on each feature: one writing code and one testing it
+8. High employee satisfaction because of users' intense involvement during the entire development process
+9. The ability to add features at any time during the development process without negatively affecting development
+
+XP Disadvantages
+1. Scant documentation because of the lack of design-centered approach usually followed in larger systems development projects
+2. The potential for user conflicts to bog down the development when agreements are hard to reach
+3. Unstable requirements because of the lack of a formal requirements analysis before design and Programming are done
+4. Limited overall design specifications because features are designed as needed.
+5. Methodology geared toward single projects; not good for large projects
+6. Does not work well when scalability issues exist because they cannot be integrated with other programs later
+7. Constant contact with the customer is assumed, which can be difficult to ensure if users are ambivalent or do not want to be a part of the development team
+
+Systems-Type Audit
+ensures an org system and applications are appropriate and contrlled to maintain security and reliability
+
+Process-Type Audit
+includes a risk analysis of new and existing projects to determine how organizations compare
+
+Successful management of IS......
+1. keeps systems from being obsolete
+2. integrating systems to avoid duplication
+3. strategic approach
+4. data integrity without duplication, inconsistencies and errors
+
+Chief Information Officer (CIO)
+highest ranking exec, responsible for all IS within the org.
+
+IS Departments
+Technology, Operations, Development Outsourcing, Data Admin
+
+IS (or IT) departments responsible for...
+User ID, Granting access and permissions, ensuring systems have data integrity, managing the security of data.
+
+Ethics are...
+moral guidelines in organizations.
+
+2 questions in ethics
+1. was harm done to anyone
+2. did someone gain an undeserved advantage from the behavior.
+
+Approaches to Managing Ethics
+1. Informal Approach - address as occurs
+2. General Written Procedures
+3. Written Code of Ethics
+4. Top down Ethics Approach
+
+Important Steps in Promoting Ethics
+1. Inform employees about policies and procedures
+2. incorporate ethics in all areas of the organization
+3. train employees how to recognize unethical behavior
+4. help avoid circumstances
+5. Hold Formal Training
+
+Threats to Information System
+1. Unintentional 
+2. intentional
+
+Types of Threats
+1. Natural
+2. Human
+3. Environmental
+4. Physical
+5. Technical
+
+Aspects to consider in a security plan
+1. Hardware Security
+2. Software Security
+3. Data Security
+4. People Security
+
+Physical Safegards
+1. ID Badges
+2. Cubical Design
+3. Shredder
+
+Acts of Congress that require Data backups
+1. Sarbanes-Oxley Act
+2. HIPPA
+3. Gramm-Leach-Bliley Act (GLBA)
+
+Types of Media for Backups
+1. Optical
+2. Semiconductor
+3. Magnetic
+4. Cloud
+
+Organizations spend ____% of their IT budget on disaster recovery
+2-4%
+
+Disaster Recovery Plans (DRP) Objectives
+1. decrease risk of disaster
+2. decrease probability of disaster
+3. decrease insurance premiums
+4. protect assets
+5. reduce dependencies on human decision making
+6. organization stability
+7. improve employee safety
+
+Disaster Recovery Plans (DRP) Steps
+1. Select DRP Team - entire organization
+2. conduct a risk analysis
+3. identify recovery options
+4. Create a DRP strategy
+- - - key contacts
+- - - HW / SW considerations
+- - - Data Files
+- - - Communications and Infrastructure
+- - - Org Facilities
+- - - Hot / Cold Sites
+
+Types of protected data
+1. Business Financial Data
+2. Personally Identifiable Information (Customer Data)
+
+Data Safeguards should ensure
+1. Confidentiality
+2. Integrity
+3. Availability
+
+If you are aware / witness a security compromise or breach
+1. protect company and customer
+2. identify offender
+3. limit damage
+4. alert customers
+5. help in the resolution of security incidents.
+6. enable policies and procedures to be effective.
+
+Problem Management Benefits
+1. Reduce number of errors/incidents
+2. Quality of Service Improves
+3. Increased Organizational Knowledge
+4. Proactive problem management
+
+Proactive
+work done to resolve issues before they are reported
+
+Reactive
+customer initiates problem solving, contacting customer support
+
+Problem Management Steps -
+1. Record
+2. Classify / Categorize
+3. Check the incident against known issues.
+4. Track Progress
+5. Provide closure
+
+Change Management Stages
+1. Acceptance and Filtering
+2. Classification
+3. Formal Approval
+4. Building, Testing and Implementing
+5. Post Implementation Review

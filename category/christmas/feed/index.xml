@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>christmas &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/category/christmas/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 26 Dec 2004 03:25:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>christmas &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Christmas 2004</title>
+		<link>https://paco.org/christmas-2004-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Sun, 26 Dec 2004 03:25:00 +0000</pubDate>
+				<category><![CDATA[christmas]]></category>
+		<category><![CDATA[Scrapbook]]></category>
+		<guid isPermaLink="false">http://34.209.47.176/wp/2004/12/26/christmas-2004/</guid>
+
+					<description><![CDATA[These photos were never blogged before. EDIT:&#160;Originally uploaded Dec. 27, 2012. Click photo to see album:]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

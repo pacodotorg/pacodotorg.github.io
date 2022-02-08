@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It's the new style!"
-category: school
+category: me
 author: pacodotorg
 published: true
 ---

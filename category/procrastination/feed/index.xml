@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>procrastination &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/category/procrastination/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Wed, 19 Jun 2019 17:15:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>procrastination &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Open-sourced, at last</title>
+		<link>https://paco.org/open-sourced-at-last/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2016 23:58:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[procrastination]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">https://paco.org/open-sourced-at-last/</guid>
+
+					<description><![CDATA[I have finally let go of my ISP, after… many years of hosting. They (a2hosting) served me well, but now I have to try things on my own and practice what I preach. Exciting times, yes. I wish this had happened 20 years ago, or better yet, 30. (EDIT 2: I see what I did [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Last-minute inspiration</title>
+		<link>https://paco.org/inspiration/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Thu, 31 Oct 2013 14:21:55 +0000</pubDate>
+				<category><![CDATA[ECC]]></category>
+		<category><![CDATA[procrastination]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2053</guid>
+
+					<description><![CDATA[With only about a month left between now and the final day of classes, I hope my students are getting visits from that misunderstood muse, Panic. She might be the last hope for some people. Taken from imgur.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tuesday is the new Monday</title>
+		<link>https://paco.org/tuesday-is-the-new-monday-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Mon, 04 Feb 2013 14:12:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[procrastination]]></category>
+		<guid isPermaLink="false">http://34.209.47.176/wp/2013/02/04/tuesday-is-the-new-monday/</guid>
+
+					<description><![CDATA[… and February is the new January. And what I mean by that is that if I told you last week that I would be doing something next week, then I meant I’d get to it by Tuesday. Oh, I’d be thinking about it all Monday long, so even if when I finally get around [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Listen to the mandolin rain</title>
+		<link>https://paco.org/listen-to-the-mandolin-rain-2/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2012 13:30:00 +0000</pubDate>
+				<category><![CDATA[procrastination]]></category>
+		<category><![CDATA[learn]]></category>
+		<guid isPermaLink="false">http://34.209.47.176/wp/2012/10/17/listen-to-the-mandolin-rain/</guid>
+
+					<description><![CDATA[I have two appointments on my calendar, one for my regularly scheduled class, another for a class that just popped up that I may or not benefit from. They overlap (in time) by 15 minutes, and are 15 minutes apart (in space). It all seemed like a good idea when I signed up for both [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

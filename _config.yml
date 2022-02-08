@@ -1,31 +1,39 @@
-# Site settings
-title: paco[dot]org
-email: contact [at] paco.org
-description: I’m a member of the IT Faculty at El Centro College in the Dallas County Community College District for the Internet Development Technologies program. I currently teach Digital Imaging and Web Design classes using Adobe Photoshop and Adobe Dreamweaver, plus HTML5 and CSS3 coding. I also teach Web Project Management, Portfolio Development and WordPress courses.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://paco.org" # the base hostname & protocol for your site
-twitter_username: pacodotorg 
-github_username:  pacodotorg
+# Jekyll configuration
 
+name: paco[dot]org
+description: what's old again is new
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+# url is currently only used only for the RSS feed in feed.xml
+url: https://paco.org
 
-paginate:            5
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+baseurl: ''
 
+# This can be '' to hide the Github nav button
+github: 'pacodotorg'
 
-# Build settings
+# Set this to your UA-# value, or '' to disable the block completely
+gaaccount: ''
+
+# The 'comments' setting enables comments. You'll need to select either
+# disqus or isso below to choose a comment system. Individual posts can
+# override 'comments' to disable on a post-by-post basis.
+comments: true
+
+# Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
+isso: ''
+
+# Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
+disqus: ''
+
+permalink: /:year/:month/:title
+paginate: 5
+
+highlighter: rouge
 markdown: kramdown
-kramdown:
-  input: GFM
+gems: ['jekyll-paginate']
 
-# Third-party services
-# just leave someone empty to disable it
-# google_analytics: 
-disqus_shortname:
-
-# used this for post_excerpt at index_page
-excerpt_separator:
+exclude: ['README.md', 'LICENSE']

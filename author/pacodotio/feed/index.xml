@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pacodotio &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/author/pacodotio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 30 Oct 2016 14:11:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>pacodotio &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A cybersecurity glossary</title>
+		<link>https://paco.org/a-cybersecurity-glossary/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2016 14:11:20 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=304</guid>
+
+					<description><![CDATA[Antivirus software Computer programs that can block, detect, and remove viruses and other malware. Backups/backing up files Extra copies of computer files that can be used to restore files that are lost or damaged. Bandwidth The amount of data that can pass through a network or part of a network per second. Botnet Multiple computers on a network that [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The more you know: More IT Girls</title>
+		<link>https://paco.org/the-more-you-know-more-it-girls/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2016 13:38:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=287</guid>
+
+					<description><![CDATA[Why encourage girls to go into a science, tech, engineering or math career? The U.S. will need more than 1.5 million engineers and computing professionals in the next 10 years. Enough “it girls.” More IT Girls!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Open-sourced, at last</title>
+		<link>https://paco.org/open-sourced-at-last/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2016 23:58:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[procrastination]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">https://paco.org/open-sourced-at-last/</guid>
+
+					<description><![CDATA[I have finally let go of my ISP, after… many years of hosting. They (a2hosting) served me well, but now I have to try things on my own and practice what I preach. Exciting times, yes. I wish this had happened 20 years ago, or better yet, 30. (EDIT 2: I see what I did [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Would you like to play a game?</title>
+		<link>https://paco.org/would-you-like-to-play-a-game/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2016 13:45:09 +0000</pubDate>
+				<category><![CDATA[80s]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=294</guid>
+
+					<description><![CDATA[In this game of high adventure, your objective is to travel 200 miles across the great Gobi Desert while being chased by a tribe of knock-kneed pygmies. High adventure, indeed!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rhiannon</title>
+		<link>https://paco.org/rhiannon/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Wed, 03 Aug 2016 09:38:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Listen to this]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">https://paco.org/rhiannon/</guid>
+
+					<description><![CDATA[Somewhere along the way, a friend of mine posted this video on Facebook, and I stopped disliking the song Rhiannon, that for whatever long-forgotten reason I disliked. I think it was because it was featured in the TV-Guide channel of whatever cable system I had in the late 80s that kept on playing it over [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

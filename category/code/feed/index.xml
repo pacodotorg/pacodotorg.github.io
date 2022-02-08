@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>code &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/category/code/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 26 May 2019 22:16:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>code &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Would you like to play a game?</title>
+		<link>https://paco.org/would-you-like-to-play-a-game/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2016 13:45:09 +0000</pubDate>
+				<category><![CDATA[80s]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=294</guid>
+
+					<description><![CDATA[In this game of high adventure, your objective is to travel 200 miles across the great Gobi Desert while being chased by a tribe of knock-kneed pygmies. High adventure, indeed!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>One does not simply learn how to Code</title>
+		<link>https://paco.org/one-does-not-simply-learn-how-to-code/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2016 00:28:24 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=272</guid>
+
+					<description><![CDATA[Get comfortable with abstraction. If you try to understand how everything works, you&#8217;ll get nothing done. pic.twitter.com/jfsXtdIySk — Quincy Larson (@ossia) February 12, 2015]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Web Design Resources</title>
+		<link>https://paco.org/web-design-resources/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Tue, 31 May 2016 14:12:46 +0000</pubDate>
+				<category><![CDATA[code]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">http://paco.io/wp/?p=236</guid>
+
+					<description><![CDATA[Tutorials and Books W3 Schools Don’t Fear the Internet Codecademy Code School Learn CSS Layout HTML5 and CSS3 Fundamentals envatotuts+ Videos Khan Academy Google: HTML, CSS, and Javascript from the Ground Up Lab Files for Above]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Free Resources for Learning Python</title>
+		<link>https://paco.org/free-resources-for-learning-python/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Tue, 31 May 2016 13:20:57 +0000</pubDate>
+				<category><![CDATA[code]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<guid isPermaLink="false">http://paco.io/wp/?p=233</guid>
+
+					<description><![CDATA[A short, but hopefully growing list of free online resources that may help you learn Python. The default for these links is Python 3, unless noted. Tutorials and Books Program Arcade Games with Python and Pygame Learn Python the Hard Way Learn X in Y Minutes (where X=python3) How to Think Like a Computer Scientist [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Python or bust!</title>
+		<link>https://paco.org/python-or-bust/</link>
+		
+		<dc:creator><![CDATA[pacodotio]]></dc:creator>
+		<pubDate>Sat, 27 Jun 2015 03:32:14 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[idtprof.com]]></category>
+		<guid isPermaLink="false">http://paco.io/?p=322</guid>
+
+					<description><![CDATA[And so after months of harping about how great it would be to switch from DarkBASIC to Python in my game design classes, the time has come to put up or shut up and start designing the class itself. It will be split in two, starting with Python and ending with JavaScript. Now to figure [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

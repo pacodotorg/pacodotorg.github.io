@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>seafood &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/tag/seafood/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 30 Dec 2012 16:35:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>seafood &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ralph &#038; Kacoo&#8217;s — Bossier City, LA</title>
+		<link>https://paco.org/ralph-kacoos-bossier-city-la/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Mon, 09 Jan 2012 15:35:54 +0000</pubDate>
+				<category><![CDATA[Eats]]></category>
+		<category><![CDATA[bossier city]]></category>
+		<category><![CDATA[fish]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[seafood]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=1030</guid>
+
+					<description><![CDATA[My wife and frequented the Ralph &#38; Kacoo&#8217;s in Allen (Texas), but that closed in the last year, which is too bad because it was one of our favorite seafood places in the Metroplex. On a recent visit to Shreveport, we opted to dine at this Ralph &#38; Kacoos. Service was prompt at the get-go, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

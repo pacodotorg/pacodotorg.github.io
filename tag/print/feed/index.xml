@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>print &#8211; pacodotorg</title>
+	<atom:link href="https://paco.org/tag/print/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paco.org</link>
+	<description>What&#039;s new again is old</description>
+	<lastBuildDate>Sun, 30 Dec 2012 15:28:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://paco.org/wp-content/uploads/2018/01/cropped-moi-1-32x32.jpg</url>
+	<title>print &#8211; pacodotorg</title>
+	<link>https://paco.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Added Vivir design pages</title>
+		<link>https://paco.org/added-vivir-design-page/</link>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sat, 16 Jun 2012 19:47:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[al dia]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[print]]></category>
+		<category><![CDATA[vivir]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=84</guid>
+
+					<description><![CDATA[At some point I need to tinker with this plug in and give it a different personality&#8230; KPICASA_GALLERY(VivirPages)]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
