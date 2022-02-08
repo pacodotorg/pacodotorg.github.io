@@ -30,6 +30,7 @@
 	<item>
 		<title>An important song for me</title>
 		<link>https://paco.org/2306-2/</link>
+					<comments>https://paco.org/2306-2/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2016 04:55:50 +0000</pubDate>
@@ -39,6 +40,8 @@
 
 					<description><![CDATA[No explanation, really. At the time — 1991, I think — I was stuck in a bus for two days. It moved forward, yes, but ever so slowly. All the time, all I had was my Sony Walkman and one single tape — “Goodbye Yellow Brick Road” by Elton John. Also, I only had two [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/2306-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

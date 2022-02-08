@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/tag/vw/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Sun, 30 Jan 2022 17:44:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Apr 2020 13:20:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,6 +30,7 @@
 	<item>
 		<title>Pink, pink pink</title>
 		<link>https://paco.org/2296-2/</link>
+					<comments>https://paco.org/2296-2/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Sun, 02 Sep 2018 03:17:57 +0000</pubDate>
@@ -44,8 +45,11 @@
 
 					<description><![CDATA[Although my formative years took place in the 1980s, the 90s were a force to be reckoned with, once I started to pay attention. That being said, the close of the decade brought a seal to the era in an unusual way: a commercial on television, featuring a song from the 1970s. There&#8217;s many an [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/2296-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://paco.org/wp-content/uploads/2019/05/vw_pinkmoon.mp4" length="2877791" type="video/mp4" />
+
 			</item>
 	</channel>
 </rss>

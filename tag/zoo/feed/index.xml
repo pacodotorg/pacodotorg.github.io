@@ -30,6 +30,7 @@
 	<item>
 		<title>A trip to the Fort Worth Zoo</title>
 		<link>https://paco.org/a-trip-to-the-fort-worth-zoo/</link>
+					<comments>https://paco.org/a-trip-to-the-fort-worth-zoo/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Sat, 30 Apr 2011 18:50:13 +0000</pubDate>
@@ -41,12 +42,15 @@
 
 					<description><![CDATA[Click on image to see album:]]></description>
 		
+					<wfw:commentRss>https://paco.org/a-trip-to-the-fort-worth-zoo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>It&#8217;s all happening at the zoo&#8230; May 2009</title>
 		<link>https://paco.org/its-all-happening-at-the-zoo-may-2009/</link>
+					<comments>https://paco.org/its-all-happening-at-the-zoo-may-2009/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Thu, 07 May 2009 12:53:22 +0000</pubDate>
@@ -58,6 +62,8 @@
 
 					<description><![CDATA[Sophie and Ben visited the Fort Worth Zoo with Aunt Shelley and Uncle Paco. Saw crocodiles AND alligators&#8230; Click on image to see the album:]]></description>
 		
+					<wfw:commentRss>https://paco.org/its-all-happening-at-the-zoo-may-2009/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

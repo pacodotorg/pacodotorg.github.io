@@ -30,6 +30,7 @@
 	<item>
 		<title>Free money?</title>
 		<link>https://paco.org/free-money/</link>
+					<comments>https://paco.org/free-money/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Tue, 19 Jun 2012 23:55:13 +0000</pubDate>
@@ -42,12 +43,15 @@
 
 					<description><![CDATA[Wonder if I can get some of this scratch?]]></description>
 		
+					<wfw:commentRss>https://paco.org/free-money/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The moving process begins</title>
 		<link>https://paco.org/the-moving-process-begins/</link>
+					<comments>https://paco.org/the-moving-process-begins/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Thu, 14 Jun 2012 13:20:06 +0000</pubDate>
@@ -59,12 +63,15 @@
 
 					<description><![CDATA[OK, I now have WordPress installed as my CMS on paco.org, and soon all content will more here. If you&#8217;re looking for my portfolio, that page is still found here. Soon I&#8217;ll incorporate a slideshow widget to handle the galleries: KPICASA_GALLERY(LaVidaPages)]]></description>
 		
+					<wfw:commentRss>https://paco.org/the-moving-process-begins/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Added a video plugin</title>
 		<link>https://paco.org/added-a-news-plugin/</link>
+					<comments>https://paco.org/added-a-news-plugin/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Thu, 14 Jun 2012 08:07:41 +0000</pubDate>
@@ -76,6 +83,8 @@
 
 					<description><![CDATA[Now, with video! The hail storm making its way through our neighborhood on June 14, 2012: [youtube=http://www.youtube.com/watch?v=pKyseXAh01s]]]></description>
 		
+					<wfw:commentRss>https://paco.org/added-a-news-plugin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

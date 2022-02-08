@@ -30,6 +30,7 @@
 	<item>
 		<title>A cybersecurity glossary</title>
 		<link>https://paco.org/a-cybersecurity-glossary/</link>
+					<comments>https://paco.org/a-cybersecurity-glossary/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Sun, 30 Oct 2016 14:11:20 +0000</pubDate>
@@ -40,12 +41,15 @@
 
 					<description><![CDATA[Antivirus software Computer programs that can block, detect, and remove viruses and other malware. Backups/backing up files Extra copies of computer files that can be used to restore files that are lost or damaged. Bandwidth The amount of data that can pass through a network or part of a network per second. Botnet Multiple computers on a network that [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/a-cybersecurity-glossary/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The more you know: More IT Girls</title>
 		<link>https://paco.org/the-more-you-know-more-it-girls/</link>
+					<comments>https://paco.org/the-more-you-know-more-it-girls/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Fri, 07 Oct 2016 13:38:00 +0000</pubDate>
@@ -55,12 +59,15 @@
 
 					<description><![CDATA[Why encourage girls to go into a science, tech, engineering or math career? The U.S. will need more than 1.5 million engineers and computing professionals in the next 10 years. Enough “it girls.” More IT Girls!]]></description>
 		
+					<wfw:commentRss>https://paco.org/the-more-you-know-more-it-girls/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Would you like to play a game?</title>
 		<link>https://paco.org/would-you-like-to-play-a-game/</link>
+					<comments>https://paco.org/would-you-like-to-play-a-game/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Thu, 29 Sep 2016 13:45:09 +0000</pubDate>
@@ -72,12 +79,15 @@
 
 					<description><![CDATA[In this game of high adventure, your objective is to travel 200 miles across the great Gobi Desert while being chased by a tribe of knock-kneed pygmies. High adventure, indeed!]]></description>
 		
+					<wfw:commentRss>https://paco.org/would-you-like-to-play-a-game/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>One does not simply learn how to Code</title>
 		<link>https://paco.org/one-does-not-simply-learn-how-to-code/</link>
+					<comments>https://paco.org/one-does-not-simply-learn-how-to-code/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Tue, 28 Jun 2016 00:28:24 +0000</pubDate>
@@ -88,12 +98,15 @@
 
 					<description><![CDATA[Get comfortable with abstraction. If you try to understand how everything works, you&#8217;ll get nothing done. pic.twitter.com/jfsXtdIySk — Quincy Larson (@ossia) February 12, 2015]]></description>
 		
+					<wfw:commentRss>https://paco.org/one-does-not-simply-learn-how-to-code/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Web Design Resources</title>
 		<link>https://paco.org/web-design-resources/</link>
+					<comments>https://paco.org/web-design-resources/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Tue, 31 May 2016 14:12:46 +0000</pubDate>
@@ -105,6 +118,8 @@
 
 					<description><![CDATA[Tutorials and Books W3 Schools Don’t Fear the Internet Codecademy Code School Learn CSS Layout HTML5 and CSS3 Fundamentals envatotuts+ Videos Khan Academy Google: HTML, CSS, and Javascript from the Ground Up Lab Files for Above]]></description>
 		
+					<wfw:commentRss>https://paco.org/web-design-resources/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

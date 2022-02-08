@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Sat, 29 Jan 2022 21:52:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 May 2019 22:06:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,22 +28,9 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Old life for a new site?</title>
-		<link>https://paco.org/old-life-for-a-new-site/</link>
-		
-		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
-		<pubDate>Sat, 29 Jan 2022 21:52:21 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">https://paco.org/?p=2620</guid>
-
-					<description><![CDATA[First time posting anything in a while&#8230; actually, saving the post locally and sneaking it into Github?]]></description>
-		
-		
-		
-			</item>
-		<item>
 		<title>A cybersecurity glossary</title>
 		<link>https://paco.org/a-cybersecurity-glossary/</link>
+					<comments>https://paco.org/a-cybersecurity-glossary/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Sun, 30 Oct 2016 14:11:20 +0000</pubDate>
@@ -54,12 +41,15 @@
 
 					<description><![CDATA[Antivirus software Computer programs that can block, detect, and remove viruses and other malware. Backups/backing up files Extra copies of computer files that can be used to restore files that are lost or damaged. Bandwidth The amount of data that can pass through a network or part of a network per second. Botnet Multiple computers on a network that [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/a-cybersecurity-glossary/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The more you know: More IT Girls</title>
 		<link>https://paco.org/the-more-you-know-more-it-girls/</link>
+					<comments>https://paco.org/the-more-you-know-more-it-girls/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Fri, 07 Oct 2016 13:38:00 +0000</pubDate>
@@ -69,12 +59,15 @@
 
 					<description><![CDATA[Why encourage girls to go into a science, tech, engineering or math career? The U.S. will need more than 1.5 million engineers and computing professionals in the next 10 years. Enough “it girls.” More IT Girls!]]></description>
 		
+					<wfw:commentRss>https://paco.org/the-more-you-know-more-it-girls/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Open-sourced, at last</title>
 		<link>https://paco.org/open-sourced-at-last/</link>
+					<comments>https://paco.org/open-sourced-at-last/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Mon, 03 Oct 2016 23:58:00 +0000</pubDate>
@@ -85,12 +78,15 @@
 
 					<description><![CDATA[I have finally let go of my ISP, after… many years of hosting. They (a2hosting) served me well, but now I have to try things on my own and practice what I preach. Exciting times, yes. I wish this had happened 20 years ago, or better yet, 30. (EDIT 2: I see what I did [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/open-sourced-at-last/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rhiannon</title>
 		<link>https://paco.org/rhiannon/</link>
+					<comments>https://paco.org/rhiannon/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Wed, 03 Aug 2016 09:38:00 +0000</pubDate>
@@ -101,6 +97,32 @@
 
 					<description><![CDATA[Somewhere along the way, a friend of mine posted this video on Facebook, and I stopped disliking the song Rhiannon, that for whatever long-forgotten reason I disliked. I think it was because it was featured in the TV-Guide channel of whatever cable system I had in the late 80s that kept on playing it over [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/rhiannon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Let&#8217;s try eating less, and exercise</title>
+		<link>https://paco.org/lets-try-eating-less-and-exercise/</link>
+					<comments>https://paco.org/lets-try-eating-less-and-exercise/#respond</comments>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Sat, 30 Jul 2016 14:01:12 +0000</pubDate>
+				<category><![CDATA[2016]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[berkeley breathed]]></category>
+		<category><![CDATA[bloom county]]></category>
+		<category><![CDATA[comic strip]]></category>
+		<category><![CDATA[diet]]></category>
+		<category><![CDATA[milo]]></category>
+		<category><![CDATA[opus]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2264</guid>
+
+					<description><![CDATA[I remember reading this in the paper all that time ago, and thinking &#8220;Yeah, right.&#8221;]]></description>
+		
+					<wfw:commentRss>https://paco.org/lets-try-eating-less-and-exercise/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

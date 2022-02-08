@@ -30,6 +30,7 @@
 	<item>
 		<title>Added Vivir design pages</title>
 		<link>https://paco.org/added-vivir-design-page/</link>
+					<comments>https://paco.org/added-vivir-design-page/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Sat, 16 Jun 2012 19:47:17 +0000</pubDate>
@@ -43,6 +44,8 @@
 
 					<description><![CDATA[At some point I need to tinker with this plug in and give it a different personality&#8230; KPICASA_GALLERY(VivirPages)]]></description>
 		
+					<wfw:commentRss>https://paco.org/added-vivir-design-page/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

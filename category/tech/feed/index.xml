@@ -30,6 +30,7 @@
 	<item>
 		<title>A cybersecurity glossary</title>
 		<link>https://paco.org/a-cybersecurity-glossary/</link>
+					<comments>https://paco.org/a-cybersecurity-glossary/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Sun, 30 Oct 2016 14:11:20 +0000</pubDate>
@@ -40,12 +41,15 @@
 
 					<description><![CDATA[Antivirus software Computer programs that can block, detect, and remove viruses and other malware. Backups/backing up files Extra copies of computer files that can be used to restore files that are lost or damaged. Bandwidth The amount of data that can pass through a network or part of a network per second. Botnet Multiple computers on a network that [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/a-cybersecurity-glossary/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Open-sourced, at last</title>
 		<link>https://paco.org/open-sourced-at-last/</link>
+					<comments>https://paco.org/open-sourced-at-last/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Mon, 03 Oct 2016 23:58:00 +0000</pubDate>
@@ -56,12 +60,15 @@
 
 					<description><![CDATA[I have finally let go of my ISP, after… many years of hosting. They (a2hosting) served me well, but now I have to try things on my own and practice what I preach. Exciting times, yes. I wish this had happened 20 years ago, or better yet, 30. (EDIT 2: I see what I did [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/open-sourced-at-last/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Computer Skills Requirements</title>
 		<link>https://paco.org/computer-skills-requirements/</link>
+					<comments>https://paco.org/computer-skills-requirements/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Wed, 01 Jun 2016 14:12:56 +0000</pubDate>
@@ -72,12 +79,15 @@
 
 					<description><![CDATA[You need to have a basic knowledge of computer and Internet skills in order to be successful in an online course. Here are some of the highlights: Knowledge of terminology, such as browser, IMHO, application, etc. Understanding of basic computer hardware and software; ability to perform computer operations, such as: Using keyboard and mouse Managing [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/computer-skills-requirements/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Web Design Resources</title>
 		<link>https://paco.org/web-design-resources/</link>
+					<comments>https://paco.org/web-design-resources/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Tue, 31 May 2016 14:12:46 +0000</pubDate>
@@ -89,12 +99,15 @@
 
 					<description><![CDATA[Tutorials and Books W3 Schools Don’t Fear the Internet Codecademy Code School Learn CSS Layout HTML5 and CSS3 Fundamentals envatotuts+ Videos Khan Academy Google: HTML, CSS, and Javascript from the Ground Up Lab Files for Above]]></description>
 		
+					<wfw:commentRss>https://paco.org/web-design-resources/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Why IT support is hated</title>
 		<link>https://paco.org/why-it-support-is-hated-2/</link>
+					<comments>https://paco.org/why-it-support-is-hated-2/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Tue, 29 Mar 2016 22:43:00 +0000</pubDate>
@@ -104,6 +117,8 @@
 
 					<description><![CDATA[This morning I had an issue creating a new content folder using the Blackboard software we use at the college when suddenly it stopped dead on its tracks and warned me of an unidentified error. I tried to copy an existing folder to see if I could coax the system into cooperating, but still — [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/why-it-support-is-hated-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

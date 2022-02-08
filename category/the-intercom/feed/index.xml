@@ -30,6 +30,7 @@
 	<item>
 		<title>Nobody knows you&#8217;re a dog</title>
 		<link>https://paco.org/nobody-knows-youre-a-dog/</link>
+					<comments>https://paco.org/nobody-knows-youre-a-dog/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Sat, 06 Dec 2014 14:57:03 +0000</pubDate>
@@ -39,12 +40,15 @@
 
 					<description><![CDATA[Nobody knows you&#8217;re a pack of dogs, is more like it.]]></description>
 		
+					<wfw:commentRss>https://paco.org/nobody-knows-youre-a-dog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The intercom</title>
 		<link>https://paco.org/the-intercom-2/</link>
+					<comments>https://paco.org/the-intercom-2/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Sat, 27 Jul 2013 14:31:00 +0000</pubDate>
@@ -55,12 +59,15 @@
 
 					<description><![CDATA[300 baud modem? Check. Compuserve? Check. Forget that — bulletin board services (BBSes)! Watched Wargames at the theater? check. (Also Top Secret!, Real Genius, Raiders of the Lost Ark, etc.) Teenager in the 80s? Check. Atari 2600, TRS-80 Model III, Commodore 64, Tron. Activision — for crying out loud! Internet Relay Chat at the Tech library [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/the-intercom-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A break from the usual consumption</title>
 		<link>https://paco.org/a-break-from-the-usual-consumption-2/</link>
+					<comments>https://paco.org/a-break-from-the-usual-consumption-2/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Wed, 19 Dec 2012 16:18:00 +0000</pubDate>
@@ -70,6 +77,8 @@
 
 					<description><![CDATA[Recently subscribed to the Radiolab podcast, to fill in the hours while Howard Stern is on vacation, and it’s programming like this that makes me wish The King of All Media would just retire already, or make good on his promise to only work one day a week, so I can pay attention to something [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/a-break-from-the-usual-consumption-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -30,6 +30,7 @@
 	<item>
 		<title>Would you like to play a game?</title>
 		<link>https://paco.org/would-you-like-to-play-a-game/</link>
+					<comments>https://paco.org/would-you-like-to-play-a-game/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Thu, 29 Sep 2016 13:45:09 +0000</pubDate>
@@ -41,12 +42,15 @@
 
 					<description><![CDATA[In this game of high adventure, your objective is to travel 200 miles across the great Gobi Desert while being chased by a tribe of knock-kneed pygmies. High adventure, indeed!]]></description>
 		
+					<wfw:commentRss>https://paco.org/would-you-like-to-play-a-game/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Age of Marvels</title>
 		<link>https://paco.org/the-age-of-marvels-2/</link>
+					<comments>https://paco.org/the-age-of-marvels-2/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Thu, 21 Jun 2012 02:28:00 +0000</pubDate>
@@ -58,6 +62,8 @@
 
 					<description><![CDATA[I clearly remember picking out this magazine from the rack and shelling out the three bucks it cost. A bit pricey for those days (1981, 82?) but I definitely got my money’s worth. I must have read it dozens upon dozens of times: I loaned it to friends, got it back, kept it in my [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/the-age-of-marvels-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

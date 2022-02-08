@@ -30,6 +30,7 @@
 	<item>
 		<title>This Day in Geek History: January 1</title>
 		<link>https://paco.org/this-day-in-geek-history-january-1/</link>
+					<comments>https://paco.org/this-day-in-geek-history-january-1/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotio]]></dc:creator>
 		<pubDate>Mon, 01 Jan 2001 13:07:52 +0000</pubDate>
@@ -38,6 +39,8 @@
 
 					<description><![CDATA[1801 Italian astronomer Giuseppe Piazzi discovers an asteroid orbiting between Mars and Jupiter. Believing it to be a dwarf planet, he names it Ceres. 1818 The novel Frankenstein, or The Modern Prometheus by Mary Shelley is first published. The first edition is published anonymously. Many will come to be considered the first fully-realized science fiction novel. Download a copy of the book at [&#8230;]]]></description>
 		
+					<wfw:commentRss>https://paco.org/this-day-in-geek-history-january-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -30,6 +30,7 @@
 	<item>
 		<title>Sophie&#8217;s fourth birthday party</title>
 		<link>https://paco.org/sophies-fourth-birthday-party/</link>
+					<comments>https://paco.org/sophies-fourth-birthday-party/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Sat, 23 Apr 2011 19:47:27 +0000</pubDate>
@@ -40,12 +41,15 @@
 
 					<description><![CDATA[Click on image to see album:]]></description>
 		
+					<wfw:commentRss>https://paco.org/sophies-fourth-birthday-party/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sophie&#8217;s second birthday</title>
 		<link>https://paco.org/sophies-second-birthday/</link>
+					<comments>https://paco.org/sophies-second-birthday/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Sun, 26 Apr 2009 18:18:17 +0000</pubDate>
@@ -56,12 +60,15 @@
 
 					<description><![CDATA[All the pictures from the birthday party on April 25, 2009. A smaller version of the album in the works. Click on image to see album:]]></description>
 		
+					<wfw:commentRss>https://paco.org/sophies-second-birthday/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sophie&#8217;s First Birthday Party</title>
 		<link>https://paco.org/sophies-first-birthday-party/</link>
+					<comments>https://paco.org/sophies-first-birthday-party/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Sat, 26 Apr 2008 15:26:20 +0000</pubDate>
@@ -73,12 +80,15 @@
 
 					<description><![CDATA[It was Sophie&#8217;s first birthday party, and lots of presents were opened. New clothes, toys, birthday cake and lots of fun were the order of the day. Click on image to see album, video gallery follows:]]></description>
 		
+					<wfw:commentRss>https://paco.org/sophies-first-birthday-party/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ben&#8217;s second birthday</title>
 		<link>https://paco.org/bens-second-birthday/</link>
+					<comments>https://paco.org/bens-second-birthday/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Sun, 22 Jul 2007 18:19:21 +0000</pubDate>
@@ -89,12 +99,15 @@
 
 					<description><![CDATA[It&#8217;s Ben&#8217;s second birthday party, and Aunt Shelley and Tio Paco joined Sophie and all the aunts and grandparents along with mom and dad to open presents and partake in the big cookie and cake.]]></description>
 		
+					<wfw:commentRss>https://paco.org/bens-second-birthday/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ben&#8217;s 1st birthday party</title>
 		<link>https://paco.org/bens-1st-birthday-party/</link>
+					<comments>https://paco.org/bens-1st-birthday-party/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Mon, 24 Jul 2006 17:10:05 +0000</pubDate>
@@ -106,6 +119,8 @@
 
 					<description><![CDATA[Is Ben blue? Yes, he is, and that&#8217;s just the icing on the cake&#8230; Click image to see album: Ben and the slide Ben digs into his cake]]></description>
 		
+					<wfw:commentRss>https://paco.org/bens-1st-birthday-party/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
