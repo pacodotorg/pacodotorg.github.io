@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/tag/commercial/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Wed, 08 Apr 2020 13:20:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 00:45:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -48,8 +48,7 @@
 					<wfw:commentRss>https://paco.org/2296-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://paco.org/wp-content/uploads/2019/05/vw_pinkmoon.mp4" length="2877791" type="video/mp4" />
-
+		
 			</item>
 	</channel>
 </rss>

@@ -94,7 +94,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/paco.org\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://paco.org/wp-includes/js/wp-util.min.js?ver=5.9" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"c94055f625"};
+var userProfileL10n = {"user_id":"0","nonce":"07288f8296"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">

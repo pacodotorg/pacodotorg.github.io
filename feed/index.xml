@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Fri, 15 Jan 2021 04:50:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 00:54:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Old life for a new site?</title>
+		<link>https://paco.org/2623-2/</link>
+					<comments>https://paco.org/2623-2/#respond</comments>
+		
+		<dc:creator><![CDATA[frodriguez]]></dc:creator>
+		<pubDate>Sun, 30 Jan 2022 00:46:34 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2623</guid>
+
+					<description><![CDATA[First time posting anything in a while… actually, saving the post locally and sneaking it into Github?]]></description>
+		
+					<wfw:commentRss>https://paco.org/2623-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Pink, pink pink</title>
 		<link>https://paco.org/2296-2/</link>
 					<comments>https://paco.org/2296-2/#respond</comments>
@@ -48,8 +65,7 @@
 					<wfw:commentRss>https://paco.org/2296-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://paco.org/wp-content/uploads/2019/05/vw_pinkmoon.mp4" length="2877791" type="video/mp4" />
-
+		
 			</item>
 		<item>
 		<title>The time machine</title>
@@ -100,25 +116,6 @@
 					<description><![CDATA[No explanation, really. At the time — 1991, I think — I was stuck in a bus for two days. It moved forward, yes, but ever so slowly. All the time, all I had was my Sony Walkman and one single tape — “Goodbye Yellow Brick Road” by Elton John. Also, I only had two [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://paco.org/2306-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>A cybersecurity glossary</title>
-		<link>https://paco.org/a-cybersecurity-glossary/</link>
-					<comments>https://paco.org/a-cybersecurity-glossary/#respond</comments>
-		
-		<dc:creator><![CDATA[pacodotio]]></dc:creator>
-		<pubDate>Sun, 30 Oct 2016 14:11:20 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[idtprof.com]]></category>
-		<category><![CDATA[tech]]></category>
-		<guid isPermaLink="false">http://paco.io/?p=304</guid>
-
-					<description><![CDATA[Antivirus software Computer programs that can block, detect, and remove viruses and other malware. Backups/backing up files Extra copies of computer files that can be used to restore files that are lost or damaged. Bandwidth The amount of data that can pass through a network or part of a network per second. Botnet Multiple computers on a network that [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://paco.org/a-cybersecurity-glossary/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
