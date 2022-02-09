@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/author/frodriguez/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Wed, 09 Feb 2022 00:47:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 20:43:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The struggle is real</title>
+		<link>https://paco.org/the-struggle-is-real/</link>
+					<comments>https://paco.org/the-struggle-is-real/#respond</comments>
+		
+		<dc:creator><![CDATA[frodriguez]]></dc:creator>
+		<pubDate>Wed, 09 Feb 2022 20:43:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2636</guid>
+
+					<description><![CDATA[Back in the day, I was the editor of my College newspaper. The University Daily, it was called. because students in the 1960s were pushing for Texas Technological College to become a university, and they changed the paper&#8217;s name to drop in some magic potion in the zeitgeist. As editor, I had pages to fill [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://paco.org/the-struggle-is-real/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Old life for a new site?</title>
 		<link>https://paco.org/2623-2/</link>
 					<comments>https://paco.org/2623-2/#respond</comments>

@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Wed, 09 Feb 2022 00:47:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 20:43:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The struggle is real</title>
+		<link>https://paco.org/the-struggle-is-real/</link>
+					<comments>https://paco.org/the-struggle-is-real/#respond</comments>
+		
+		<dc:creator><![CDATA[frodriguez]]></dc:creator>
+		<pubDate>Wed, 09 Feb 2022 20:43:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2636</guid>
+
+					<description><![CDATA[Back in the day, I was the editor of my College newspaper. The University Daily, it was called. because students in the 1960s were pushing for Texas Technological College to become a university, and they changed the paper&#8217;s name to drop in some magic potion in the zeitgeist. As editor, I had pages to fill [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://paco.org/the-struggle-is-real/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Old life for a new site?</title>
 		<link>https://paco.org/2623-2/</link>
 					<comments>https://paco.org/2623-2/#respond</comments>
@@ -96,25 +113,6 @@
 					<description><![CDATA[I have finally let go of my ISP, after… many years of hosting. They (a2hosting) served me well, but now I have to try things on my own and practice what I preach. Exciting times, yes. I wish this had happened 20 years ago, or better yet, 30. (EDIT 2: I see what I did [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://paco.org/open-sourced-at-last/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Rhiannon</title>
-		<link>https://paco.org/rhiannon/</link>
-					<comments>https://paco.org/rhiannon/#respond</comments>
-		
-		<dc:creator><![CDATA[pacodotio]]></dc:creator>
-		<pubDate>Wed, 03 Aug 2016 09:38:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Listen to this]]></category>
-		<category><![CDATA[video]]></category>
-		<guid isPermaLink="false">https://paco.org/rhiannon/</guid>
-
-					<description><![CDATA[Somewhere along the way, a friend of mine posted this video on Facebook, and I stopped disliking the song Rhiannon, that for whatever long-forgotten reason I disliked. I think it was because it was featured in the TV-Guide channel of whatever cable system I had in the late 80s that kept on playing it over [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://paco.org/rhiannon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
