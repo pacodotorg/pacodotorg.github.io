@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Wed, 09 Feb 2022 00:54:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 01:35:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -94,13 +94,12 @@
 				<category><![CDATA[80s]]></category>
 		<guid isPermaLink="false">https://paco.org/?p=2303</guid>
 
-					<description><![CDATA[(Somehow rearranged.) And it happened driving somewhere in somebody&#8217;s car, that the radio played the M/A/R/R/S mashup &#8220;Pump Up the Volume,&#8221; and music changed forever, all at once. Your browser does not support the audio element. NOTE TO SELF: &#8220;&#8230; and then all things changed, somehow rearranged&#8221; are the lyrics I remember from the early [&#8230;]]]></description>
+					<description><![CDATA[(Somehow rearranged.) And it happened driving somewhere in somebody&#8217;s car, that the radio played the M/A/R/R/S mashup &#8220;Pump Up the Volume,&#8221; and music changed forever, all at once. NOTE TO SELF: &#8220;&#8230; and then all things changed, somehow rearranged&#8221; are the lyrics I remember from the early 1980s HBO show &#8220;Remember When.&#8221; Dick Cavett hosted [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://paco.org/and-then-all-things-changed/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://ia802603.us.archive.org/20/items/MARRS-Pump-Up-The-Volume-1998-CD/M-A-R-R-S%20-%20Pump%20Up%20the%20Volume.ogg" length="0" type="audio/ogg" />
-
+		
 			</item>
 		<item>
 		<title>An important song for me</title>
