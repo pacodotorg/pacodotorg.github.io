@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/author/pacodotorg/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Wed, 09 Feb 2022 01:35:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Feb 2022 21:24:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The struggle is real</title>
+		<link>https://paco.org/the-struggle-is-real/</link>
+					<comments>https://paco.org/the-struggle-is-real/#respond</comments>
+		
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
+		<pubDate>Wed, 09 Feb 2022 20:43:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://paco.org/?p=2636</guid>
+
+					<description><![CDATA[Back in the day, I was the editor of my college newspaper, The University Daily — it was called. Because students in the 1960s were pushing for Texas Technological College to become a university, they changed the paper&#8217;s name to drop in some magic potion in the zeitgeist. As the editor, I had pages to [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://paco.org/the-struggle-is-real/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Pink, pink pink</title>
 		<link>https://paco.org/2296-2/</link>
 					<comments>https://paco.org/2296-2/#respond</comments>
@@ -98,30 +115,6 @@
 					<description><![CDATA[No explanation, really. At the time — 1991, I think — I was stuck in a bus for two days. It moved forward, yes, but ever so slowly. All the time, all I had was my Sony Walkman and one single tape — “Goodbye Yellow Brick Road” by Elton John. Also, I only had two [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://paco.org/2306-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Let&#8217;s try eating less, and exercise</title>
-		<link>https://paco.org/lets-try-eating-less-and-exercise/</link>
-					<comments>https://paco.org/lets-try-eating-less-and-exercise/#respond</comments>
-		
-		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
-		<pubDate>Sat, 30 Jul 2016 14:01:12 +0000</pubDate>
-				<category><![CDATA[2016]]></category>
-		<category><![CDATA[Blog]]></category>
-		<category><![CDATA[berkeley breathed]]></category>
-		<category><![CDATA[bloom county]]></category>
-		<category><![CDATA[comic strip]]></category>
-		<category><![CDATA[diet]]></category>
-		<category><![CDATA[milo]]></category>
-		<category><![CDATA[opus]]></category>
-		<guid isPermaLink="false">https://paco.org/?p=2264</guid>
-
-					<description><![CDATA[I remember reading this in the paper all that time ago, and thinking &#8220;Yeah, right.&#8221;]]></description>
-		
-					<wfw:commentRss>https://paco.org/lets-try-eating-less-and-exercise/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

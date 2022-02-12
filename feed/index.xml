@@ -12,7 +12,7 @@
 	<atom:link href="https://paco.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://paco.org</link>
 	<description>What&#039;s new again is old</description>
-	<lastBuildDate>Thu, 10 Feb 2022 01:51:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Feb 2022 21:24:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 		<link>https://paco.org/the-struggle-is-real/</link>
 					<comments>https://paco.org/the-struggle-is-real/#respond</comments>
 		
-		<dc:creator><![CDATA[frodriguez]]></dc:creator>
+		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Wed, 09 Feb 2022 20:43:53 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://paco.org/?p=2636</guid>
