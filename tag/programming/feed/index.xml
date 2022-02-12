@@ -30,7 +30,6 @@
 	<item>
 		<title>CS193P &#8211; &#8220;Coding together&#8221;</title>
 		<link>https://paco.org/cs193p-coding-together/</link>
-					<comments>https://paco.org/cs193p-coding-together/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Fri, 08 Feb 2013 03:53:44 +0000</pubDate>
@@ -47,8 +46,6 @@
 
 					<description><![CDATA[Stanford is currently offering in iTunes U their Winter 2013 iPhone Application Development class. The course is currently five or six lectures in, but since folks not enrolled at Stanford can only audit the class, I think anyone can just jump right in. And get lost. The instructor runs through a list of prerequisites that [&#8230;]]]></description>
 		
-					<wfw:commentRss>https://paco.org/cs193p-coding-together/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		<enclosure url="http://a1.phobos.apple.com/us/r30/CobaltPublic/v4/28/32/20/2832208e-e6fb-1515-6b12-b4a4d1775b29/108-7062677794155921653-01_1_08_13_720p1000cc.mp4" length="597355913" type="video/mp4" />
 

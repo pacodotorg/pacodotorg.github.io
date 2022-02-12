@@ -30,7 +30,6 @@
 	<item>
 		<title>Last-minute inspiration</title>
 		<link>https://paco.org/inspiration/</link>
-					<comments>https://paco.org/inspiration/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Thu, 31 Oct 2013 14:21:55 +0000</pubDate>
@@ -40,8 +39,6 @@
 
 					<description><![CDATA[With only about a month left between now and the final day of classes, I hope my students are getting visits from that misunderstood muse, Panic. She might be the last hope for some people. Taken from imgur.]]></description>
 		
-					<wfw:commentRss>https://paco.org/inspiration/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

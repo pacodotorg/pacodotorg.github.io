@@ -30,7 +30,6 @@
 	<item>
 		<title>Old life for a new site?</title>
 		<link>https://paco.org/2623-2/</link>
-					<comments>https://paco.org/2623-2/#respond</comments>
 		
 		<dc:creator><![CDATA[frodriguez]]></dc:creator>
 		<pubDate>Sun, 30 Jan 2022 00:46:34 +0000</pubDate>
@@ -39,8 +38,6 @@
 
 					<description><![CDATA[First time posting anything in a while… actually, saving the post locally and sneaking it into Github?]]></description>
 		
-					<wfw:commentRss>https://paco.org/2623-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

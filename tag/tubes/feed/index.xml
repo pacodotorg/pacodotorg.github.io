@@ -30,7 +30,6 @@
 	<item>
 		<title>Whole Lotta Helter Skelter</title>
 		<link>https://paco.org/whole-lotta-helter-skelter/</link>
-					<comments>https://paco.org/whole-lotta-helter-skelter/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Wed, 02 Jan 2013 19:46:40 +0000</pubDate>
@@ -43,8 +42,6 @@
 
 					<description><![CDATA[]]></description>
 		
-					<wfw:commentRss>https://paco.org/whole-lotta-helter-skelter/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

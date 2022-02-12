@@ -30,7 +30,6 @@
 	<item>
 		<title>Ben tries to eat</title>
 		<link>https://paco.org/ben-tries-to-eat/</link>
-					<comments>https://paco.org/ben-tries-to-eat/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Sat, 18 Feb 2006 23:17:42 +0000</pubDate>
@@ -41,8 +40,6 @@
 
 					<description><![CDATA[How can a baby concentrate on eating green beans when there&#8217;s a camera rolling?]]></description>
 		
-					<wfw:commentRss>https://paco.org/ben-tries-to-eat/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

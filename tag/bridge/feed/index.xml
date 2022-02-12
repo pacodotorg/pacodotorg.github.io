@@ -30,7 +30,6 @@
 	<item>
 		<title>Top of the mornin&#8217;</title>
 		<link>https://paco.org/top-of-the-mornin/</link>
-					<comments>https://paco.org/top-of-the-mornin/#respond</comments>
 		
 		<dc:creator><![CDATA[pacodotorg]]></dc:creator>
 		<pubDate>Tue, 05 Apr 2016 16:24:10 +0000</pubDate>
@@ -42,8 +41,6 @@
 
 					<description><![CDATA[I don&#8217;t know, once all the construction on I-30 is done, will it be a better thing that I can get to work earlier in the morning?]]></description>
 		
-					<wfw:commentRss>https://paco.org/top-of-the-mornin/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
